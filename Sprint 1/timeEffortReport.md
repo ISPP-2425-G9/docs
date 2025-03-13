@@ -108,6 +108,30 @@ Desarrollo	0:15
 
 ---
 
+### Juan García	46:40
+
+#### Frontend \- Sprint 1	16:40  
+Desarrollo	15:26  
+Documentación	1:15  
+
+#### Clases/Píldoras \- Sprint 1	9:20  
+Clases	8:00  
+Píldora 1:20
+
+#### Reuniones \- Sprint 1	7:25  
+Reunión	7:25  
+
+#### Presentación \- Sprint 1	9:00 
+Presentación	9:00
+
+#### Backend \- Sprint 1	2:50  
+Desarrollo	2:50  
+
+#### Documentación \- Sprint 1	1:25  
+Documentación	1:25  
+
+---
+
 ### Rafael Duque	46:05
 
 #### Frontend \- Sprint 1	26:25  
@@ -233,30 +257,7 @@ Reunión	1:35
 
 ---
 
-### Juan García	40:51
-
-#### Frontend \- Sprint 1	16:41  
-Desarrollo	15:26  
-Documentación	1:15  
-
-#### Clases/Píldoras \- Sprint 1	8:00  
-Clases	8:00  
-
-#### Reuniones \- Sprint 1	7:25  
-Reunión	7:25  
-
-#### Presentación \- Sprint 1	4:30  
-Presentación	4:30  
-
-#### Backend \- Sprint 1	2:50  
-Desarrollo	2:50  
-
-#### Documentación \- Sprint 1	1:25  
-Documentación	1:25  
-
----
-
-### David Guillen	40:20
+### David Guillen	40:35
 
 #### Usuarios piloto \- Sprint 1	14:55  
 Documentación	14:55  
@@ -272,8 +273,8 @@ Desarrollo	8:25
 Desarrollo	4:10  
 Documentación	0:35  
 
-#### Documentación \- Sprint 1	2:55  
-Documentación	2:55  
+#### Documentación \- Sprint 1	3:10  
+Documentación	3:10  
 
 ---
 
@@ -358,10 +359,10 @@ Desarrollo	0:25
 
 ---
 
-### Álvaro Chico	31:10
+### Álvaro Chico	30:20
 
-#### Frontend \- Sprint 1	11:10  
-Desarrollo	11:10  
+#### Frontend \- Sprint 1	10:20  
+Desarrollo	10:20 
 
 #### Backend \- Sprint 1	6:45  
 Documentación, Investigación	4:05  
