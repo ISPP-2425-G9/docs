@@ -58,13 +58,13 @@
 
 # 
 
-# 1\. Introducción {#1.-introducción}
+# 1\. Introducción
 
 El presente documento, tiene como objetivo establecer las normas, acuerdos y procedimientos que regirán el funcionamiento del equipo de trabajo durante el desarrollo del proyecto. 
 
 En él se detallan las responsabilidades de cada miembro, los criterios de evaluación del desempeño, así como los mecanismos para la resolución de conflictos y las sanciones por incumplimiento de los acuerdos. El compromiso mutuo de cumplir con los principios establecidos en este documento tiene como finalidad asegurar el éxito del proyecto y la consecución de los objetivos comunes.
 
-# **2\. Objetivos** {#2.-objetivos}
+# **2\. Objetivos**
 
 * Se espera que los miembros del equipo trabajen de manera constante todas las semanas.  
 * Se espera que cada miembro dedique un mínimo de 10 horas semanales al proyecto y, en caso de no cumplirlo, compense las horas en las siguientes semanas.  
@@ -82,7 +82,7 @@ En él se detallan las responsabilidades de cada miembro, los criterios de evalu
 * Se espera que los miembros respeten los compromisos asumidos para no afectar el rendimiento del equipo.  
 * Se espera que aquellos que cumplan con los compromisos descritos opten a la máxima puntuación en la evaluación del proyecto (PE).
 
-# 3\. Indicadores de rendimiento {#3.-indicadores-de-rendimiento}
+# 3\. Indicadores de rendimiento
 
 * Cumplimiento de plazos  
 * Calidad del trabajo   
@@ -90,7 +90,7 @@ En él se detallan las responsabilidades de cada miembro, los criterios de evalu
 * Contribución al objetivo común
 
 
-# 4\. Sanciones por incumplimiento {#4.-sanciones-por-incumplimiento}
+# 4\. Sanciones por incumplimiento
 
 1. **Falta de participación.** Si un miembro del equipo no asiste a las reuniones, no contesta a los mensajes o no muestra interés durante un periodo prolongado (máximo 1 semana lectiva sin justificación), será sancionado con una amonestación leve.   
 2. **Incumplimiento de plazos.** El incumplimiento de las fechas límite, sin justificación válida (consensuada por el equipo en el momento del incumplimiento), resultará en una amonestación grave si no se notifica el retraso con al menos dos días de antelación a la fecha de entrega.   
@@ -100,14 +100,14 @@ En él se detallan las responsabilidades de cada miembro, los criterios de evalu
 
 Como norma general, aunque ya ha sido especificado en algunos puntos, no se amonestará a aquellos miembros que incumplan estas normas siempre y cuando lo justifiquen de manera razonable y dicha justificación sea aceptada por el grupo. 
 
-## Condiciones para expulsión {#condiciones-para-expulsión}
+## Condiciones para expulsión
 
 * Acumulación de **tres** amonestaciones leves.   
 * Acumulación de **dos** amonestaciones graves.  
 * Acuerdo **unánime** tras la mediación con el profesor de la asignatura.
 
 
-## Compromiso {#compromiso}
+## Compromiso
 
 Todos los alumnos pertenecientes al equipo y que por tanto han firmado este documento, al incorporarse a la asignatura de Ingeniería de Software y Práctica Profesional (ISPP) para el curso 2024-25, se comprometen a cumplir con los siguientes requisitos y condiciones como miembros activo del grupo de trabajo:
 
@@ -121,7 +121,7 @@ Todos los alumnos pertenecientes al equipo y que por tanto han firmado este docu
 * **Reuniones y puntualidad.** Me comprometo a asistir puntualmente a las reuniones programadas y, en caso de no poder asistir, comunicarlo con anterioridad y ponerme al día con la información discutida o los puntos acordados en la misma.
 
 
-# 5\. Recompensas y puntuación  {#5.-recompensas-y-puntuación}
+# 5\. Recompensas y puntuación
 
 Todos los alumnos que cumplan con los compromisos descritos en el apartado anterior y trabajen correctamente optarán a la máxima puntuación de ponderación para el proyecto (PE, Performance Evaluation).
 
@@ -129,11 +129,11 @@ En caso de que algún miembro del grupo no cumpla con los compromisos descritos,
 
 Al finalizar cada hito (DP, S1, S2, S3, PPL, WPL) los miembros del grupo valorarán entre 0 y 10 el desempeño del trabajo del resto de compañeros para obtener el PE de cada miembro posteriormente. 
 
-# 6\. Reparto de tareas {#6.-reparto-de-tareas}
+# 6\. Reparto de tareas
 
 El reparto de tareas se realizará siguiendo una asignación equitativa del trabajo para los tres grupos de trabajo, previamente conformados por un responsable de grupo y cuatro miembros del equipo cada uno. Dentro de cada grupo de trabajo, las tareas serán repartidas mediante el responsable de grupo siguiendo criterios como aptitudes, disponibilidad o preferencia de trabajo, entre otros. Para aquellas tareas complejas e importantes donde se requiera invertir un mayor esfuerzo para su correcta completitud, varios miembros de uno o varios grupos podrán ser asignados a ellas.
 
-# 7\. Participantes  {#7.-participantes}
+# 7\. Participantes
 
 Al firmar este documento, entiendo y acepto las responsabilidades que se me han asignado y me comprometo a cumplirlas según lo establecido en este documento.
 
