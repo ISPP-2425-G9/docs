@@ -1,3 +1,49 @@
+![logo_caronte_azul](https://github.com/user-attachments/assets/36631133-4715-4b20-91b8-5f07d96795c2)
+
+# Horas de trabajo del equipo
+
+## Sprint 1
+
+## Grupo 9
+
+**Realizado por:**
+
+Pérez Santiago, Alejandro
+
+**Revisado por:**
+
+García Escudero, Ángel
+
+---
+
+![Diagrama_general](https://github.com/user-attachments/assets/a7d10854-24e8-42ba-91a8-ccb47ce0e778)
+
+---
+
+## Comparación entre Devising a Project y Sprint 1
+
+![Comparación](https://github.com/user-attachments/assets/e845d41a-421f-47d3-b2f2-6c53b65a2228)
+
+---
+
+## Horas de trabajo por miembro del equipo
+
+![Usuarios](https://github.com/user-attachments/assets/b48111ed-5ab9-48c9-958e-3a512d8af01a)
+
+---
+
+## Horas de trabajo por sección
+
+![Tareas](https://github.com/user-attachments/assets/d0e71dbe-b4ca-4a50-82c9-40de9acbc290)
+
+---
+
+## Horas de trabajo por tarea
+
+![Etiquetas](https://github.com/user-attachments/assets/e0cf312f-2111-4d07-aff8-2187fd41c445)
+
+---
+
 ### Jorge Muñoz	65:25
 
 #### Despliegue \- Sprint 1	32:55  
@@ -27,7 +73,7 @@ Documentación	0:30
 
 ---
 
-### Ángel García	60:55
+### Ángel García	62:15
 
 #### Despliegue \- Sprint 1	13:20  
 Desarrollo	13:20  
@@ -39,8 +85,9 @@ Prueba de la aplicación	0:25
 #### Documentación \- Sprint 1	9:45  
 Documentación	9:45  
 
-#### Clases/Píldoras \- Sprint 1	7:30  
+#### Clases/Píldoras \- Sprint 1	8:50  
 Clases	7:30  
+Píldoras 1:20
 
 #### Presentación \- Sprint 1	7:25  
 Presentación	7:25  
