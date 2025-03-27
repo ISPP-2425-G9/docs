@@ -32,8 +32,8 @@ Rodríguez Reina, Javier
 Para evaluar la aplicación, se proporcionan las siguientes credenciales:
 
 - Usuarios Clientes:
-    - **Usuario 1:** cliente1@caronte.site / **Contraseña:** customer  
-    - **Usuario 2:** cliente2@caronte.site / **Contraseña:** customer
+    - **Usuario 1:** jose@caronte.site / **Contraseña:** cliente  
+    - **Usuario 2:** memora@caronte.site / **Contraseña:** empresa
 
 - Usuario Administrador:
     - **Administrador:** admin@caronte.site / **Contraseña:** password
