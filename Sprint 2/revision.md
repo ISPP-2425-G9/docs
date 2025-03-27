@@ -8,10 +8,13 @@
 
 **Realizado por:**
 
-Rodríguez Reina, Javier 
+Rodríguez Reina, Javier
+
+Solís Padilla, Isaac
 
 **Revisado por:**
 
+García Escudero, Ángel
 
 
 ## 1. Información General
@@ -25,15 +28,19 @@ Rodríguez Reina, Javier
 - **Sprint 1 - Time Report:** [Sprint 1 - Time Report](https://app.clockify.me/shared/67d356c106a063047edb3578)
 - **Sprint 2 - Time Report:** [Sprint 2 - Time Report](https://app.clockify.me/shared/67e5b5eaf562c161b72c6dd3)
 - **General - Time Report:** [General - Time Report](https://app.clockify.me/shared/67e5b64f492c8e6e4f27af13)
-- **Aplicación de despligue:** : [Railway](https://railway.com)
+- **Aplicación de despligue:** [Railway](https://railway.com)
 
 ### 1.2. Credenciales de Acceso de Prueba
 ---
 Para evaluar la aplicación, se proporcionan las siguientes credenciales:
 
-- Usuarios Clientes:
-    - **Usuario 1:** jose@caronte.site / **Contraseña:** cliente  
-    - **Usuario 2:** memora@caronte.site / **Contraseña:** empresa
+- Usuarios Cliente:
+    - **Cliente 1:** pedro@caronte.site / **Contraseña:** customer  
+    - **Cliente 2:** jose@caronte.site / **Contraseña:** cliente
+    
+- Usuarios Empresa:
+    - **Empresa 1:** ventas@rosaseternas.es / **Contraseña:** empresa  
+    - **Empresa 2:** memora@caronte.site / **Contraseña:** empresa
 
 - Usuario Administrador:
     - **Administrador:** admin@caronte.site / **Contraseña:** password
@@ -217,7 +224,6 @@ Para garantizar una correcta experiencia de uso, se recomienda:
        - Porcentaje completado: 40%.
 - **El usuario elimina un mensaje personalizado, eliminándolo de manera permanente del sistema.**
     - Imagen: Captura de la opción para eliminar un mensaje personalizado en la configuración de mensajes.  
-      ![Eliminar Mensaje Personalizado](https://github.com/user-attachments/assets/delete-custom-message.png)  
     - Interacción con el software: Sección "Mensajes Personalizados" con opción para eliminar mensajes creados.  
     - Sprint: Implementado en el **Sprint 2**. Se finalizará en el **Sprint 3**
     - Estado de implementación: ⏳ En desarrollo.
@@ -278,13 +284,16 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Sprint: Implementado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
 
-## 3. Enlace a la Demo en Video
-El siguiente enlace redirige a la demostración en video de la aplicación utilizada en la evaluación del Sprint 1:
+## 3. Enlace a la Demo en Vídeo
+El siguiente enlace redirige a la demostración en video de la aplicación utilizada en la evaluación del Sprint 2:
 
- **[Creación de esquelas](https://github.com/ISPP-2425-G9/docs/blob/main/Sprint%201/obituaryCreation.mp4)**
+ **[Demostración funcional de la aplicación](https://github.com/ISPP-2425-G9/docs/blob/main/Sprint%202/functionalDemo.mp4)**
+ 
+ **[Demostración funcional de la aplicación (YouTube)](https://youtu.be/66dH-rnsPAY)**
+ 
 
 Formato: `.mp4`  
-Ubicación: Almacenado en el repositorio de GitHub en la carpeta `/Sprint 1`.
+Ubicación: Almacenado en el repositorio de GitHub en la carpeta `/Sprint 2`.
 
 ## 4. Datos Realistas en la Demo
 La demostración del software incluye datos realistas y escenarios de usuario con nombres y contenido verosímil, evitando información ficticia no representativa.
