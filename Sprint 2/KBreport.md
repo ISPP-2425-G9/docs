@@ -12,6 +12,8 @@ Pérez Santiago, Alejandro
 
 **Revisado por:**
 
+García Escudero, Ángel
+
 # **Índice**
 
 [**1\. Base de Conocimiento Común**](#base-de-conocimiento-común)
@@ -64,7 +66,7 @@ Link a la aportación del grupo 9 en la Base de Conocimiento Común:  [https://b
 
 En la sección del grupo 9 se ha subido tanto el feedback propio como el del resto de grupos, organizado en secciones por grupo, que se dividen a su vez en subsecciones por semana. 
 
-Además, el grupo 9 ha sido el encargado, como en el anterior Sprint, de la gestión continua de la Base de Conocimiento Común, creando un entorno de trabajo donde uno o dos representantes de cada grupo de trabajo son los encargados de mantener actualizada la BCC.
+Además, el grupo 9 ha sido el encargado, como en el anterior Sprint, de la gestión continua de la Base de Conocimiento Común, creando un entorno de trabajo donde uno o dos representantes de cada grupo de trabajo son los encargados de mantener actualizada su sección correspondiente de la BCC.
 
 A continuación, se proporcionan capturas de pantalla sobre el feedback realizado durante el Sprint 2 (semanas del 10/03 y 17/03) por parte del grupo 9, para consultar el feedback completo puede acceder a través del siguiente [enlace](https://bcc2425.vercel.app/docs/grupos-tarde/Grupo%209).
 
@@ -128,7 +130,7 @@ A continuación, se proporcionan capturas de pantalla sobre el feedback realizad
 
 ## Feedback 9
 
-**Feedback.** Mejorar la presentación del *Storyboard,* incluyendo uno para cada uno de los usuarios de la aplicación
+**Feedback.** Mejorar la presentación del *Storyboard,* incluyendo uno para cada uno de los usuarios de la aplicación.
 
 **Actualización.** Se han elaborado *Storyboards* para los usuarios finales, las empresas y los inversores.
 
