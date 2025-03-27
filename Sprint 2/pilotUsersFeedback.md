@@ -28,7 +28,7 @@ García Escudero, Ángel
 
 [1.6 Vista de formularios](#vista-de-formularios)
 
-[**2\.Semana 17/03](#semana-1703)**
+[**2\.Semana 17/03**](#semana-1703)
 
 [2.1 Página de inicio](#página-de-inicio-1)
 
