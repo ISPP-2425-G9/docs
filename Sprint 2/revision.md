@@ -17,11 +17,13 @@ Rodríguez Reina, Javier
 ## 1. Información General
 ### 1.1. URL del Repositorio de GitHub
 - **Repositorio de Github:** [GitHub - Caronte](https://github.com/ISPP-2425-G9)
-- **Aplicación Desplegada:** [Despliegue - Caronte](https://sprint2.caronte.site/home)
+- **Aplicación Desplegada(Sprint 1):** [Despliegue - Caronte - Sprint 1 ](https://sprint1.caronte.site/home)
+- **Aplicación Desplegada(Sprint 2):** [Despliegue - Caronte - Sprint 2 ](https://sprint2.caronte.site/home)
 - **Landing Page:** [Landing Page - Caronte](https://www.caronte.site/)
 - **Clockify:** [Clockify](https://clockify.me/)
 - **Devising a Project - Time Report:** [Devising a Project - Time Report](https://app.clockify.me/shared/67d358fa61753b24b9dc8224)
 - **Sprint 1 - Time Report:** [Sprint 1 - Time Report](https://app.clockify.me/shared/67d356c106a063047edb3578)
+- **Sprint 2 - Time Report:** [Sprint 2 - Time Report](https://app.clockify.me/shared/67d356c106a063047edb3578)
 - **General - Time Report:** [General - Time Report](https://app.clockify.me/shared/67d3588ebecbe07bd993bda6)
 - **Aplicación de despligue:** : [Railway](https://railway.com)
 
@@ -30,8 +32,8 @@ Rodríguez Reina, Javier
 Para evaluar la aplicación, se proporcionan las siguientes credenciales:
 
 - Usuarios Clientes:
-    - **Usuario 1:** user1@caronte.site / **Contraseña:** password
-    - **Usuario 2:** user2@caronte.site / **Contraseña:** password
+    - **Usuario 1:** cliente1@caronte.site / **Contraseña:** customer  
+    - **Usuario 2:** cliente2@caronte.site / **Contraseña:** customer
 
 - Usuario Administrador:
     - **Administrador:** admin@caronte.site / **Contraseña:** password
@@ -169,7 +171,6 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Datos requeridos: Nombre del difunto, fecha de nacimiento, mensaje de despedida, frase de despedida, destinatarios.
     - Sprint: Implementado en el **Sprint 1**.  Finalizado en el **Sprint 2**.
     - Estado de implementación:✅ Implementado.
-      
 - **El usuario elimina una esquela de su perfil, eliminándola de manera permanente del sistema.**  
     - Imagen: Captura de la opción para eliminar una esquela en la sección de gestión de esquelas.  
       ![Eliminar Esquela](https://github.com/user-attachments/assets/delete-obituary-example.png)  
