@@ -2,7 +2,7 @@
 
 # Usuarios piloto
 
-# Sprint 1
+# Sprint 2
 
 # Grupo 9
 
@@ -105,7 +105,7 @@ El uso de encuestas a lo largo de todo el programa de usuarios piloto permitirá
 * **Determinar el nivel de satisfacción.** Se medirá el grado de conformidad con la aplicación, lo que permitirá identificar puntos fuertes y aspectos a mejorar.  
 * **Validar la propuesta de valor.** La encuesta final permitirá evaluar si la aplicación cumple con las expectativas y necesidades del público objetivo, además de analizar la intención de recomendación.
 
-# 2.**Sistemas de recompensas**
+# 2. **Sistemas de recompensas**
 
 Dar un incentivo a los participantes como usuarios piloto puede motivarlos a participar activamente y proporcionar un feedback valioso para la mejora de la aplicación. De esta forma, en función del grado de aportación en aspectos como la introducción de mejoras en la aplicación o el reporte de errores, se proponen las siguientes recompensas:
 
@@ -113,7 +113,7 @@ Dar un incentivo a los participantes como usuarios piloto puede motivarlos a par
 * **Merchandising.** Aquellos usuarios pilotos que hayan aportado alguna mejora significativa en la aplicación o reportado algún error, se les dará algún producto relacionado con la aplicación como recompensa (llavero, camiseta, taza, etc.).  
 * **Plan premium y descuentos.** Dirigido a los usuarios pilotos que hayan aportado alguna mejora significativa o reportado algún error, se les recompensará con 2 meses de plan premium gratuito o descuentos canjeables en nuestras empresas patrocinadoras.
 
-# 3.**Agenda de tratamiento**
+# 3. **Agenda de tratamiento**
 
 De acuerdo a la organización de la asignatura, se ha elaborado un programa de usuarios piloto que se estructura de la siguiente manera:
 
@@ -153,7 +153,7 @@ Para estructurar la información recopilada y facilitar su análisis, se utiliza
 
 * Se llevará a cabo un proceso de automatización de los datos de las encuestas, que convertirá los datos de un documento excel a un archivo de tipo legible, que un integrante del grupo se encargará de “traducir” para obtener un feedback que será llevado al equipo de trabajo como nuevas tareas de implementación o corrección de errores.
 
-# 4.**Usuarios piloto**
+# 4. **Usuarios piloto**
 
 Consultar el [excel](https://docs.google.com/spreadsheets/d/1AL21KiT8BID7g53AgBRK8OuyiTLrZrtUap0NDCWXKFE/edit?gid=0#gid=0) con todos los usuarios piloto del programa (nótese que sus datos están anonimizados)
 
