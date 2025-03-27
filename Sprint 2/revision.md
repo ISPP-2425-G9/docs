@@ -55,8 +55,6 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 - **El usuario selecciona su rol al momento de registrarse en la plataforma.**
     - Imagen: Captura de pantalla con la selección de roles.
 ![image](https://github.com/user-attachments/assets/110fd4bc-6241-4b2f-bf55-9b69c01eb108)
-
-
     - Interacción con el software: Página previa al registro donde el usuario elige su rol.
     - Sprint: Implementado en el **Sprint 1**. Modificada en el **sprint 2**
     - Estado de implementación: ✅ Implementado.
@@ -74,7 +72,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Estado de implementación: ✅ Implementado.
 - **El usuario edita la información de su perfil, actualizando sus datos personales según sea necesario.**
     - Imagen: Captura de la pantalla de edición de perfil.
-    - Interacción con el software: Página "Perfil" con opciones de edición.
+    - Interacción con el software: Sección "Mi perfil" con opciones de edición.
     - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2**
     - Estado de implementación: ✅ Implementado.
 - **El usuario elimina su cuenta, eliminando su perfil del sistema de manera permanente.**
@@ -83,6 +81,12 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Interacción con el software: Sección "Mi Perfil" con opción de eliminar cuenta.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
+ - **El usuario añade contactos de emergencia en su perfil para que sean notificados en caso de fallecimiento o emergencia médica.**  
+    - **Imagen:** Captura de la opción para añadir contactos de emergencia.  
+      ![Añadir Contacto de Emergencia](https://github.com/user-attachments/assets/emergency-contact-example.png)  
+    - Interacción con el software: Sección "Mi Perfil" con opción para gestionar contactos de emergencia.  
+    - Sprint: Implementado en el **Sprint 2**.  
+    - Estado de implementación: ✅ Implementado. 
 
 ### 2.2. Gestión de administrador
 
@@ -139,7 +143,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 - **El usuario empresa visualiza el listado de empresas patrocinadoras disponibles en la plataforma.**
     - Imagen: Captura de la pantalla de lista de patrocinadores en la plataforma.
       ![Listado de empresas](https://github.com/user-attachments/assets/6e385b33-d399-40f6-bbd4-b668faa826e3)
-    - Interacción con el software: Página principal de "Empresas Patrocinadoras".
+    - Interacción con el software: Página principal de "Servicios".
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
 
@@ -156,60 +160,54 @@ Para garantizar una correcta experiencia de uso, se recomienda:
       ![Crear esquela](https://github.com/user-attachments/assets/a7a7c376-3c43-429f-a110-c6eeeea291ae)
     - Interacción con el software: Apartado de las plantillas de las esquelas y le damos a la plantilla que queramos crear.
     - Datos requeridos: Nombre del difunto, fecha de nacimiento, mensaje de despedida, frase de despedida, destinatarios.
-    - Sprint: Implementado en el **Sprint 1**.
-    - Estado de implementación: ⏳ En proceso.
-        - Porcentaje completado: 60%.
+    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2**.
+    - Estado de implementación: ✅ Implementado.
 - **El usuario cliente edita una esquela personalizada, modificando su contenido según sea necesario.**
     - Imagen: Captura de la pantalla de edición de esquelas.
       ![Editar esquela](https://github.com/user-attachments/assets/46a721a6-8833-4d98-9d7d-ae55085ddcc4)
     - Interacción con el software: Opción "Editar" en la vista de una esquela existente.
     - Datos requeridos: Nombre del difunto, fecha de nacimiento, mensaje de despedida, frase de despedida, destinatarios.
-    - Sprint: Implementado en el **Sprint 1**.
-    - Estado de implementación: ⏳ En proceso.
-        - Porcentaje completado: 60%.
-- **El usuario cliente envía una esquela personalizada, asegurando su entrega a los destinatarios configurados.**
-    - Imagen: Captura del botón de envío en la vista de la esquela.
-    - Interacción con el software: Botón "Enviar Esquela" en la vista previa de la esquela.
-    - Sprint: Previsto para implementar en el **Sprint 3**.
-    - Estado de implementación: ⏳ Pendiente. 
-- **El destinatario recibe la esquela por correo electrónico o SMS.**
-    - Imagen: Ejemplo de correo/SMS recibido con la esquela.
-    - Interacción con el software: Mensaje generado y enviado al destinatario a través del sistema de notificaciones.
-    - Sprint: Previsto para implementar en el **Sprint 3**.
-    - Estado de implementación: ⏳ Pendiente.
+    - Sprint: Implementado en el **Sprint 1**.  Finalizado en el **Sprint 2**.
+    - Estado de implementación:✅ Implementado.
+      
+- **El usuario elimina una esquela de su perfil, eliminándola de manera permanente del sistema.**  
+    - Imagen: Captura de la opción para eliminar una esquela en la sección de gestión de esquelas.  
+      ![Eliminar Esquela](https://github.com/user-attachments/assets/delete-obituary-example.png)  
+    - Interacción con el software: Sección "Mis Esquelas" con opción para eliminar esquelas creadas.  
+    - Sprint: Implementado en el **Sprint 2**.
+    - Estado de implementación: ✅ Implementado.
+
 
 ### 2.5. Gestión de mensajes
 
 - **El usuario cliente lista los mensajes personalizados creados en la plataforma.**
     - Imagen: Captura de la sección donde se listan los mensajes.
     - Interacción con el software: Sección "Mis Mensajes" donde se muestra el historial de mensajes creados.
-    - Sprint: Previsto para implementar en el **Sprint 2**.
+    - Sprint: Previsto para implementar en el **Sprint 2**. Se finalizará en el **Sprint 3**
     - Estado de implementación: ⏳ Pendiente.
          - Porcentaje completado: 70%.
 - **El usuario cliente crea un mensaje personalizado, introduciendo el contenido deseado.**
     - Imagen: Captura del formulario de creación de mensajes personalizados.
     - Interacción con el software: Botón "Crear Mensaje" en la sección "Mis Mensajes".
-    - Sprint: Previsto para implementar en el **Sprint 2**.
+    - Sprint: Previsto para implementar en el **Sprint 2**. Se finalizará en el **Sprint 3**
     - Estado de implementación: ⏳ Pendiente.
         Porcentaje completado: 80%.
 - **El usuario cliente edita un mensaje personalizado, modificando su contenido antes de su envío.**
     - Imagen: Captura de la pantalla de edición de mensajes.
     - Interacción con el software: Opción "Editar" en la vista de un mensaje guardado.
-    - Sprint: Previsto para implementar en el **Sprint 2**.
+    - Sprint: Previsto para implementar en el **Sprint 2**.  Se finalizará en el **Sprint 3**
     - Estado de implementación: ⏳ Pendiente.
-- **El usuario cliente envía un mensaje personalizado a los destinatarios configurados.**
-    - Imagen: Captura del botón de envío en la vista del mensaje.
-    - Interacción con el software: Botón "Enviar Mensaje" dentro de la vista previa del mensaje.
-    - Sprint: Previsto para implementar en el **Sprint 3**.
-    - Estado de implementación: ⏳ Pendiente.
-- **El destinatario recibe el mensaje por correo electrónico o SMS.**
-    - Imagen: Ejemplo del correo/SMS recibido con el mensaje.
-    - Interacción con el software: Notificación automática de entrega.
-    - Sprint: Previsto para implementar en el **Sprint 3**.
-    - Estado de implementación: ⏳ Pendiente.
+       - Porcentaje completado: 40%.
+- **El usuario elimina un mensaje personalizado, eliminándolo de manera permanente del sistema.**
+    - Imagen: Captura de la opción para eliminar un mensaje personalizado en la configuración de mensajes.  
+      ![Eliminar Mensaje Personalizado](https://github.com/user-attachments/assets/delete-custom-message.png)  
+    - Interacción con el software: Sección "Mensajes Personalizados" con opción para eliminar mensajes creados.  
+    - Sprint: Implementado en el **Sprint 2**. Se finalizará en el **Sprint 3**
+    - Estado de implementación: ⏳ En desarrollo.
+        - Porcentaje completado: 80%.
+
 
 ### 2.6. Gestión de fallecimientos
-
 
 - **En caso de fallecimiento del usuario cliente, una persona con acceso sube el certificado de defunción para validarlo en la plataforma.**
     - Imagen: Captura de la pantalla de subida del certificado.
@@ -221,7 +219,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Interacción con el software: Sección "Crear Esquela" con requisito de documento de defunción.
     - Sprint: Implementado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
-- **Tras la validación del certificado de defunción, el sistema procesa el envío de esquelas o mensajes previamente configurados por el usuario cliente.**
+- **Tras la validación del certificado de defunción, el sistema procesa el envío de esquelas y mensajes previamente configurados por el usuario cliente.**
     - Imagen: Captura del estado de validación de defunción en la plataforma.
     - Interacción con el software: Notificación de aprobación del certificado y activación del envío automático.
     - Sprint: Previsto para implementar en el **Sprint 3**.
