@@ -22,7 +22,15 @@ García Escudero, Ángel
 
 [Grupo 9 (Caronte)](#grupo-9-\(caronte\))
 
+![FeedbackCaronteSemana7](https://github.com/user-attachments/assets/0af661ba-204c-4c4e-be25-552f6c17940b)
+
+![FeedbackCaronteSemana8](https://github.com/user-attachments/assets/e37fa579-c31d-4fa9-bb75-521efe94faa0)
+
 [Grupo 7 (Map Your World)](#grupo-7-\(map-your-world\))
+
+![FeedbackMapYourWorldSemana7](https://github.com/user-attachments/assets/42c7b440-e1b9-40d0-b5b4-04f84f97b9c9)
+
+![FeedbackMapYourWorldSemana8](https://github.com/user-attachments/assets/e770e93c-e590-4c04-bf16-2f7634409b19)
 
 [**3\. Consolidaciones del feedback proporcionado**](#consolidaciones-del-feedback-proporcionado)
 
