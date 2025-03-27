@@ -26,7 +26,12 @@ García Escudero, Ángel
 
 ---
 
-## Horas de trabajo por miembro del equipo
+## Horas de trabajo por miembro del equipo en el proyecto completo
+![image](https://github.com/user-attachments/assets/4d100128-e5d6-4e13-8edd-1ebf320cc614)
+
+---
+
+## Horas de trabajo por miembro del equipo en el Sprint 2
 
 ![Usuarios](https://github.com/user-attachments/assets/5feb637c-150e-42fd-90cd-ee297f541d53)
 
