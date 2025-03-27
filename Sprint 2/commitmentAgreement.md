@@ -2,39 +2,19 @@
 
 # Commitment Agreement
 
-# Sprint 1
+# Sprint 2
 
 # Grupo 9
 
-### Borrego Angulo, Hugo            
+**Realizado por:**
 
-### Chico Castellano, Álvaro 
+García Escudero, Ángel
 
-### Duque Colete, Rafael
+**Revisado por:**
 
-### Galván Cancio, Daniel
+Pérez Santiago, Alejandro
 
-### García Carballo, Juan
-
-### García Escudero, Ángel
-
-### García Rivero, Andrés Francisco
-
-### Guillén Fernández, David
-
-### Herencia Solís, Lucas Manuel
-
-### Linares Barrera, Jaime        
-
-###  Muñoz Rodríguez, Jorge         
-
-### Pérez Santiago, Alejandro 
-
-### Rodríguez Reina, Javier    
-
-### Solís Padilla, Isaac
-
-### Youssafi Benichikh, Karim
+# **Índice**
 
 # **Índice**
 
