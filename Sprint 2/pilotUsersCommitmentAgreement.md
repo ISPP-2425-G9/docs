@@ -2,7 +2,7 @@
 
 # Acuerdo de compromiso de usuarios piloto
 
-# Sprint 1
+# Sprint 2
 
 # Grupo 9
 
