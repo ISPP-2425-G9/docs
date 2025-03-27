@@ -115,13 +115,13 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Imagen: Captura de la pantalla de edición de usuario en el panel de administración.
       ![image](https://github.com/user-attachments/assets/67c6bb21-5d41-452f-86ce-d07a96e31936)
     - Interacción con el software: Opción "Editar" dentro del panel de administración.
-    - Sprint: Implementado en el **Sprint 1**.
+    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2***
     - Estado de implementación: ✅ Implementado.
 - **El administrador edita la información de una empresa registrada, modificando sus datos según sea necesario.**
     - Imagen: Captura de la pantalla de edición de usuario en el panel de administración.
       ![image](https://github.com/user-attachments/assets/1a35d105-c613-4056-8d3f-f6f30fb3b0ef)
     - Interacción con el software: Opción "Editar" dentro del panel de administración.
-    - Sprint: Implementado en el **Sprint 1**.
+    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2***
     - Estado de implementación: ✅ Implementado.
 - **El administrador elimina un perfil de usuario, eliminando su perfil del sistema de manera permanente.**
     - Imagen: Captura de la opción de eliminación de usuario en el panel de administración.
@@ -176,8 +176,9 @@ Para garantizar una correcta experiencia de uso, se recomienda:
       ![image](https://github.com/user-attachments/assets/3b4cad37-e6cc-4d23-965c-28db0c550959)
     - Interacción con el software: Apartado de las plantillas de las esquelas y le damos a la plantilla que queramos crear.
     - Datos requeridos: Nombre del difunto, fecha de nacimiento, mensaje de despedida, frase de despedida, destinatarios.
-    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2**.
-    - Estado de implementación: ✅ Implementado.
+    - Sprint: Implementado en el **Sprint 1**. Se finalizará en el **Sprint 3**
+    - Estado de implementación: ⏳ Pendiente.
+       - Porcentaje completado: 90%. 
 - **El usuario cliente edita una esquela personalizada, modificando su contenido según sea necesario.**
     - Imagen: Captura de la pantalla de edición de esquelas.
       ![image](https://github.com/user-attachments/assets/1a762b3b-4f32-44d5-a280-04bda9a0eacb)
@@ -207,7 +208,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Interacción con el software: Botón "Crear Mensaje" en la sección "Mis Mensajes".
     - Sprint: Previsto para implementar en el **Sprint 2**. Se finalizará en el **Sprint 3**
     - Estado de implementación: ⏳ Pendiente.
-        Porcentaje completado: 80%.
+        - Porcentaje completado: 80%.
 - **El usuario cliente edita un mensaje personalizado, modificando su contenido antes de su envío.**
     - Imagen: Captura de la pantalla de edición de mensajes.
     - Interacción con el software: Opción "Editar" en la vista de un mensaje guardado.
