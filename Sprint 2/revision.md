@@ -2,24 +2,22 @@
 
 # Revisión del Software - Entrega
 
-## Sprint 1
+## Sprint 2
 
 ## Grupo 9
 
 **Realizado por:**
 
-Guillén Fernández, David
-
-Solís Padilla, Isaac
+Rodríguez Reina, Javier 
 
 **Revisado por:**
 
-García Escudero, Ángel
+
 
 ## 1. Información General
 ### 1.1. URL del Repositorio de GitHub
 - **Repositorio de Github:** [GitHub - Caronte](https://github.com/ISPP-2425-G9)
-- **Aplicación Desplegada:** [Despliegue - Caronte](https://sprint1.caronte.site/home)
+- **Aplicación Desplegada:** [Despliegue - Caronte](https://sprint2.caronte.site/home)
 - **Landing Page:** [Landing Page - Caronte](https://www.caronte.site/)
 - **Clockify:** [Clockify](https://clockify.me/)
 - **Devising a Project - Time Report:** [Devising a Project - Time Report](https://app.clockify.me/shared/67d358fa61753b24b9dc8224)
@@ -39,8 +37,7 @@ Para evaluar la aplicación, se proporcionan las siguientes credenciales:
     - **Administrador:** admin@caronte.site / **Contraseña:** password
 
 - Usuario Clockify:
-    - Para acceder al repositorio de Clockify, entramos en la URL proporcionada y nos logueamos con este usuario y contraseña.
-    - **Usuario:** angelgaress@gmail.com / **Contraseña:** pl43rsCHATGPT
+    - Por motivos de seguridad y debido al funcionamiento de la plataforma Clockify, no es posible compartir estas credenciales. Si fueran interceptadas, podrían comprometer información sensible. Por esta razón, se ha decidido mantenerlas confidenciales para evitar cualquier riesgo de seguridad.
 
 - Usuario aplicación de despligue:
     - Por motivos de seguridad y debido al funcionamiento de la plataforma Railway, no es posible compartir estas credenciales. Si fueran interceptadas, podrían comprometer información sensible, incluyendo el acceso a la cuenta bancaria personal de uno de los miembros del equipo. Por esta razón, se ha decidido mantenerlas confidenciales para evitar cualquier riesgo de seguridad.
@@ -57,9 +54,11 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 
 - **El usuario selecciona su rol al momento de registrarse en la plataforma.**
     - Imagen: Captura de pantalla con la selección de roles.
-    ![Selección de roles](https://github.com/user-attachments/assets/62107f04-ef1e-4f70-bb2c-46d3e10614e9)
+![image](https://github.com/user-attachments/assets/110fd4bc-6241-4b2f-bf55-9b69c01eb108)
+
+
     - Interacción con el software: Página previa al registro donde el usuario elige su rol.
-    - Sprint: Implementado en el **Sprint 1**.
+    - Sprint: Implementado en el **Sprint 1**. Modificada en el **sprint 2**
     - Estado de implementación: ✅ Implementado.
 - **El usuario se registra en el sistema, proporcionando sus credenciales.**
     - Imagen: Captura del formulario de registro para el usuario.
@@ -76,9 +75,8 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 - **El usuario edita la información de su perfil, actualizando sus datos personales según sea necesario.**
     - Imagen: Captura de la pantalla de edición de perfil.
     - Interacción con el software: Página "Perfil" con opciones de edición.
-    - Sprint: Implementado en el **Sprint 1**.
-    - Estado de implementación: ⏳ En proceso.
-        - Porcentaje completado: 90%.
+    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2**
+    - Estado de implementación: ✅ Implementado.
 - **El usuario elimina su cuenta, eliminando su perfil del sistema de manera permanente.**
     - Imagen: Captura de la opción de eliminación de cuenta en la configuración de perfil.
       ![Eliminar cuenta](https://github.com/user-attachments/assets/3f7dc1ab-acc0-40e4-9c8d-7a866cff4352)
@@ -104,7 +102,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Imagen: Captura de la pantalla de edición de usuario en el panel de administración.
     - Interacción con el software: Opción "Editar" dentro del panel de administración.
     - Sprint: Implementado en el **Sprint 1**.
-    - Estado de implementación: ⏳ En proceso.
+    - Estado de implementación: ✅ Implementado.
         - Porcentaje completado: 90%.
 - **El administrador elimina un perfil de usuario, eliminando su perfil del sistema de manera permanente.**
     - Imagen: Captura de la opción de eliminación de usuario en el panel de administración.
@@ -130,9 +128,8 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 - **El usuario empresa edita su información sobre los servicios ofrecidos, datos de contacto, etc.**
     - Imagen: Captura de la pantalla de edición de patrocinador.
     - Interacción con el software: Sección "Registro de Empresas" en el área de patrocinadores.
-    - Sprint: Implementado en el **Sprint 1**.
-    - Estado de implementación: ⏳ En Proceso.
-        - Porcentaje completado: 90%.
+    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2**
+    - Estado de implementación: ✅ Implementado.
 - **El usuario empresa elimina su información sobre los servicios ofrecidos.**
     - Imagen: Captura de la opción de eliminación en la configuración del patrocinador.
       ![Eliminar cuenta de empresa](https://github.com/user-attachments/assets/058dc589-7b6b-4256-b218-90bf0853712d)
@@ -188,11 +185,13 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Interacción con el software: Sección "Mis Mensajes" donde se muestra el historial de mensajes creados.
     - Sprint: Previsto para implementar en el **Sprint 2**.
     - Estado de implementación: ⏳ Pendiente.
+         - Porcentaje completado: 70%.
 - **El usuario cliente crea un mensaje personalizado, introduciendo el contenido deseado.**
     - Imagen: Captura del formulario de creación de mensajes personalizados.
     - Interacción con el software: Botón "Crear Mensaje" en la sección "Mis Mensajes".
     - Sprint: Previsto para implementar en el **Sprint 2**.
     - Estado de implementación: ⏳ Pendiente.
+        Porcentaje completado: 80%.
 - **El usuario cliente edita un mensaje personalizado, modificando su contenido antes de su envío.**
     - Imagen: Captura de la pantalla de edición de mensajes.
     - Interacción con el software: Opción "Editar" en la vista de un mensaje guardado.
@@ -211,49 +210,52 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 
 ### 2.6. Gestión de fallecimientos
 
-- **El usuario cliente y sus contactos de emergencia reciben una notificación o recordatorio si se detecta la falta de pago del plan pre-mortem.**
-    - Imagen: Captura de la alerta enviada a los contactos de emergencia.
-    - Interacción con el software: Sistema de notificaciones de la aplicación y envío por correo/SMS.
-    - Sprint: Previsto para implementar en el **Sprint 2**.
-    - Estado de implementación: ⏳ Pendiente.
-- **En caso de fallecimiento del usuario cliente, uno de sus contactos de emergencia sube el certificado de defunción para validarlo en la plataforma.**
+
+- **En caso de fallecimiento del usuario cliente, una persona con acceso sube el certificado de defunción para validarlo en la plataforma.**
     - Imagen: Captura de la pantalla de subida del certificado.
     - Interacción con el software: Página "Validación de Defunción" donde se sube el documento.
-    - Sprint: Previsto para implementar en el **Sprint 2**.
-    - Estado de implementación: ⏳ Pendiente.
+    - Sprint: Implementado en el **Sprint 2**.
+    - Estado de implementación: ✅ Implementado.
 - **Si un usuario cliente desea realizar una esquela post-mortem, sube el certificado de defunción como requisito previo.**
     - Imagen: Captura de la opción de subida del certificado en la creación de esquelas.
     - Interacción con el software: Sección "Crear Esquela" con requisito de documento de defunción.
-    - Sprint: Previsto para implementar en el **Sprint 2**.
-    - Estado de implementación: ⏳ Pendiente.
+    - Sprint: Implementado en el **Sprint 2**.
+    - Estado de implementación: ✅ Implementado.
 - **Tras la validación del certificado de defunción, el sistema procesa el envío de esquelas o mensajes previamente configurados por el usuario cliente.**
     - Imagen: Captura del estado de validación de defunción en la plataforma.
     - Interacción con el software: Notificación de aprobación del certificado y activación del envío automático.
     - Sprint: Previsto para implementar en el **Sprint 3**.
     - Estado de implementación: ⏳ Pendiente.
+       - Porcentaje completado: 30%.
+ - - **El usuario cliente y sus contactos de emergencia reciben una notificación o recordatorio si se detecta la falta de pago del plan pre-mortem.**
+    - Imagen: Captura de la alerta enviada a los contactos de emergencia.
+    - Interacción con el software: Sistema de notificaciones de la aplicación y envío por correo/SMS.
+    - Sprint: Previsto para implementar en el **Sprint 3**.
+    - Estado de implementación: ⏳ Pendiente.
+      - Porcentaje completado: 20%.
 
 ### 2.7. Gestión de planes
 
 - **El usuario cliente lista los planes de precios disponibles en la plataforma.**
     - Imagen: Captura de la página donde se muestran los planes de suscripción.
     - Interacción con el software: Sección "Planes" con detalles de precios y beneficios.
-    - Sprint: Previsto para implementar en el **Sprint 2**.
-    - Estado de implementación: ⏳ Pendiente.
+    - Sprint: Implementado en el **Sprint 2**.
+    - Estado de implementación: ✅ Implementado.
 - **El usuario cliente selecciona un plan de precios, de acuerdo con sus necesidades.**
     - Imagen: Captura de la opción de selección de planes.
     - Interacción con el software: Página "Planes" con botón de selección.
-    - Sprint: Previsto para implementar en el **Sprint 2**.
-    - Estado de implementación: ⏳ Pendiente.
-- **El usuario cliente elige un método de pago e introduce sus credenciales para completar la transacción.**
+    - Sprint: Implementado en el **Sprint 2**.
+    - Estado de implementación: ✅ Implementado.
+- **El usuario cliente introduce sus credenciales para completar el pago.**
     - Imagen: Captura de la pasarela de pago.
-    - Interacción con el software: Integración con Stripe/PayPal en la sección "Planes".
-    - Sprint: Previsto para implementar en el **Sprint 2**.
-    - Estado de implementación: ⏳ Pendiente.
-- **Tras realizar un pago exitoso, el usuario cliente recibe un justificante de pago como confirmación.**
+    - Interacción con el software: Integración con Stripe en la sección "Planes".
+    - Sprint: Implementado en el **Sprint 2**.
+    - Estado de implementación: ✅ Implementado.
+- **Tras realizar un pago exitoso, el usuario cliente recibe un mensaje de confirmación.**
     - Imagen: Ejemplo del recibo de pago generado automáticamente.
     - Interacción con el software: Confirmación de pago en la plataforma y correo de recibo.
-    - Sprint: Previsto para implementar en el **Sprint 2**.
-    - Estado de implementación: ⏳ Pendiente.
+    - Sprint: Implementado en el **Sprint 2**.
+    - Estado de implementación: ✅ Implementado.
 
 ## 3. Enlace a la Demo en Video
 El siguiente enlace redirige a la demostración en video de la aplicación utilizada en la evaluación del Sprint 1:
