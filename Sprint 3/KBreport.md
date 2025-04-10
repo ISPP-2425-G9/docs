@@ -1,3 +1,4 @@
+![logo_caronte_azul](https://github.com/user-attachments/assets/36631133-4715-4b20-91b8-5f07d96795c2)
 
 # Contribución a la Base de Conocimiento Común
 
@@ -21,7 +22,7 @@ García Escudero, Ángel
 
 [Grupo 9 (Caronte)	](#grupo-9-\(caronte\))
 
-[Grupo 7 (MapYourWorld)	](#grupo-10-\(go4surprise\))
+[Grupo 7 (Go4Surprise)	](#grupo-10-\(go4surprise\))
 
 [**3\. Consolidaciones del feedback proporcionado	5**](#consolidaciones-del-feedback-proporcionado)
 
@@ -77,9 +78,13 @@ A continuación, se proporcionan capturas de pantalla sobre el feedback realizad
 
 ## Grupo 9 (Caronte)
 
+![image](https://github.com/user-attachments/assets/e8a8b98a-6e93-4ffc-8346-68ff1bdc429b)
+
+![image](https://github.com/user-attachments/assets/a1408874-6678-48ca-aa97-3b2d17fe5dc7)
+
 ## Grupo 10 (Go4Surprise)
 
-
+![image](https://github.com/user-attachments/assets/03530e6c-5427-4b28-8fef-4132f2f2b411)
 
 # **3. Consolidaciones del feedback proporcionado**
 
