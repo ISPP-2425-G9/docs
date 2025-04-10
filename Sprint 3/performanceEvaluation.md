@@ -75,7 +75,7 @@ García Escudero, Ángel
 * Elaboración del TCO  
 * Gestión de usuarios piloto
 
-García Carballo, Juan:
+### García Carballo, Juan:
 
 * Elaboración del Benchmarking  
 * Elaboración del análisis de competidores  
@@ -453,7 +453,7 @@ García Carballo, Juan:
 * Desarrollo en backend: gestión de errores, refactorización de código,  implementación de envío de correos electrónicos, desarrollo en la seguridad de la aplicación y creación de tests  
 * Elaboración de mejoras en el análisis de costes y TCO
 
-Linares Barrera, Jaime (Coordinador de Frontend):
+### Linares Barrera, Jaime (Coordinador de Frontend):
 
 * Desarrollo en frontend: implementación de la vista de verificación de certificados de defunción y mejoras en las vistas basadas en el feedback de los usuarios piloto
 
