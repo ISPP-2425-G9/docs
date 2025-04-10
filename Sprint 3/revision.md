@@ -389,9 +389,8 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 ## 3. Enlace a la Demo en Vídeo
 El siguiente enlace redirige a la demostración en video de la aplicación utilizada en la evaluación del Sprint 3:
 
- **[Demostración funcional de la aplicación]()**
  
- **[Demostración funcional de la aplicación (YouTube)]()**
+ **[Demostración funcional de la aplicación (YouTube)](https://youtu.be/lbhLIhb0xXk)**
  
 
 Formato: `.mp4`  
