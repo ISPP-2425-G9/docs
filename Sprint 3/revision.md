@@ -325,7 +325,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Sprint: Implementado en el **Sprint 3**.
     - Estado de implementación: ✅ Implementado.
       
- - - **El usuario cliente y sus contactos de emergencia reciben una notificación o recordatorio si se detecta la falta de pago del plan pre-mortem.**
+- **El usuario cliente y sus contactos de emergencia reciben una notificación o recordatorio si se detecta la falta de pago del plan pre-mortem.**
     - Imagen: Captura de la alerta enviada a los contactos de emergencia.
     - Interacción con el software: Sistema de notificaciones de la aplicación y envío por correo/SMS.
     - Sprint: Previsto para implementar en el **Sprint 4**.
