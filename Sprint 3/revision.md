@@ -2,7 +2,7 @@
 
 # Revisión del Software - Entrega
 
-## Sprint 2
+## Sprint 3
 
 ## Grupo 9
 
@@ -14,7 +14,6 @@ Solís Padilla, Isaac
 
 **Revisado por:**
 
-García Escudero, Ángel
 
 
 ## 1. Información General
@@ -22,6 +21,7 @@ García Escudero, Ángel
 - **Repositorio de Github:** [GitHub - Caronte](https://github.com/ISPP-2425-G9)
 - **Aplicación Desplegada(Sprint 1):** [Despliegue - Caronte - Sprint 1 ](https://sprint1.caronte.site/home)
 - **Aplicación Desplegada(Sprint 2):** [Despliegue - Caronte - Sprint 2 ](https://sprint2.caronte.site/home)
+- **Aplicación Desplegada(Sprint 3):** [Despliegue - Caronte - Sprint 3 ](https://sprint3.caronte.site/home)
 - **Landing Page:** [Landing Page - Caronte](https://www.caronte.site/)
 - **Clockify:** [Clockify](https://clockify.me/)
 - **Devising a Project - Time Report:** [Devising a Project - Time Report](https://app.clockify.me/shared/67d358fa61753b24b9dc8224)
@@ -183,9 +183,8 @@ Para garantizar una correcta experiencia de uso, se recomienda:
       ![image](https://github.com/user-attachments/assets/3b4cad37-e6cc-4d23-965c-28db0c550959)
     - Interacción con el software: Apartado de las plantillas de las esquelas y le damos a la plantilla que queramos crear.
     - Datos requeridos: Nombre del difunto, fecha de nacimiento, mensaje de despedida, frase de despedida, destinatarios.
-    - Sprint: Implementado en el **Sprint 1**. Se finalizará en el **Sprint 3**
-    - Estado de implementación: ⏳ Pendiente.
-       - Porcentaje completado: 90%. 
+    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 3**
+    - Estado de implementación: ✅ Implementado.
 - **El usuario cliente edita una esquela personalizada, modificando su contenido según sea necesario.**
     - Imagen: Captura de la pantalla de edición de esquelas.
       ![image](https://github.com/user-attachments/assets/1a762b3b-4f32-44d5-a280-04bda9a0eacb)
@@ -206,28 +205,24 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 - **El usuario cliente lista los mensajes personalizados creados en la plataforma.**
     - Imagen: Captura de la sección donde se listan los mensajes.
     - Interacción con el software: Sección "Mis Mensajes" donde se muestra el historial de mensajes creados.
-    - Sprint: Previsto para implementar en el **Sprint 2**. Se finalizará en el **Sprint 3**
-    - Estado de implementación: ⏳ Pendiente.
-         - Porcentaje completado: 70%.
+    - Sprint: Implementado en el **Sprint 2**. Finalizado en el **Sprint 3**
+    - Estado de implementación: ✅ Implementado.
 - **El usuario cliente crea un mensaje personalizado, introduciendo el contenido deseado.**
     - Imagen: Captura del formulario de creación de mensajes personalizados.
       ![image](https://github.com/user-attachments/assets/4db88edf-0dbf-4572-991e-30f7f026a8ea)
     - Interacción con el software: Botón "Crear Mensaje" en la sección "Mis Mensajes".
-    - Sprint: Previsto para implementar en el **Sprint 2**. Se finalizará en el **Sprint 3**
-    - Estado de implementación: ⏳ Pendiente.
-        - Porcentaje completado: 80%.
+    - Sprint: Implementado en el **Sprint 2**. Finalizado en el **Sprint 3**
+    - Estado de implementación: ✅ Implementado.
 - **El usuario cliente edita un mensaje personalizado, modificando su contenido antes de su envío.**
     - Imagen: Captura de la pantalla de edición de mensajes.
     - Interacción con el software: Opción "Editar" en la vista de un mensaje guardado.
-    - Sprint: Previsto para implementar en el **Sprint 2**.  Se finalizará en el **Sprint 3**
-    - Estado de implementación: ⏳ Pendiente.
-       - Porcentaje completado: 40%.
+    - Sprint: Implementado en el **Sprint 2**. Finalizado en el **Sprint 3**
+    - Estado de implementación: ✅ Implementado.
 - **El usuario elimina un mensaje personalizado, eliminándolo de manera permanente del sistema.**
     - Imagen: Captura de la opción para eliminar un mensaje personalizado en la configuración de mensajes.  
     - Interacción con el software: Sección "Mensajes Personalizados" con opción para eliminar mensajes creados.  
-    - Sprint: Implementado en el **Sprint 2**. Se finalizará en el **Sprint 3**
-    - Estado de implementación: ⏳ En desarrollo.
-        - Porcentaje completado: 80%.
+    - Sprint: Implementado en el **Sprint 2**. Finalizado en el **Sprint 3**
+    - Estado de implementación: ✅ Implementado.
 
 
 ### 2.6. Gestión de fallecimientos
@@ -247,9 +242,8 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 - **Tras la validación del certificado de defunción, el sistema procesa el envío de esquelas y mensajes previamente configurados por el usuario cliente.**
     - Imagen: Captura del estado de validación de defunción en la plataforma.
     - Interacción con el software: Notificación de aprobación del certificado y activación del envío automático.
-    - Sprint: Previsto para implementar en el **Sprint 3**.
-    - Estado de implementación: ⏳ Pendiente.
-       - Porcentaje completado: 30%.
+    - Sprint: Implementado en el **Sprint 3**.
+    - Estado de implementación: ✅ Implementado.
  - - **El usuario cliente y sus contactos de emergencia reciben una notificación o recordatorio si se detecta la falta de pago del plan pre-mortem.**
     - Imagen: Captura de la alerta enviada a los contactos de emergencia.
     - Interacción con el software: Sistema de notificaciones de la aplicación y envío por correo/SMS.
