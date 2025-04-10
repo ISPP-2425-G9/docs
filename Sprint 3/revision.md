@@ -320,6 +320,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 - **Tras la validación del certificado de defunción, el sistema procesa el envío de esquelas y mensajes previamente configurados por el usuario cliente.**
     - Imagen: Captura del estado de validación de defunción en la plataforma.
       ![image](https://github.com/user-attachments/assets/0060c08c-9500-4b85-b85b-01aec15b6715)
+      ![image](https://github.com/user-attachments/assets/80d54793-1c74-402a-a4f2-423273d86049)
     - Interacción con el software: Notificación de aprobación del certificado y activación del envío automático.
     - Sprint: Implementado en el **Sprint 3**.
     - Estado de implementación: ✅ Implementado.
