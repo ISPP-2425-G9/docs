@@ -247,9 +247,9 @@ Para garantizar una correcta experiencia de uso, se recomienda:
  - - **El usuario cliente y sus contactos de emergencia reciben una notificación o recordatorio si se detecta la falta de pago del plan pre-mortem.**
     - Imagen: Captura de la alerta enviada a los contactos de emergencia.
     - Interacción con el software: Sistema de notificaciones de la aplicación y envío por correo/SMS.
-    - Sprint: Previsto para implementar en el **Sprint 3**.
+    - Sprint: Previsto para implementar en el **Sprint 4**.
     - Estado de implementación: ⏳ Pendiente.
-      - Porcentaje completado: 20%.
+      - Porcentaje completado: 50%.
 
 ### 2.7. Gestión de planes
 
@@ -277,9 +277,31 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Interacción con el software: Confirmación de pago en la plataforma y correo de recibo.
     - Sprint: Implementado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
+ 
+### 2.8. Gestión de Últimos Deseos  
+
+- **El usuario cliente crea un último deseo en la plataforma.**  
+  - **Interacción con el software:** Sección "Últimos Deseos" con formulario para ingresar detalles del deseo.  
+  - **Sprint:** Planificado para el **Sprint 4**.  
+  - **Estado de implementación:** ⏳ Pendiente (0%).  
+
+- **El usuario cliente edita un último deseo previamente creado.**   
+  - **Interacción con el software:** Página "Últimos Deseos" con botón de edición disponible.  
+  - **Sprint:** Planificado para el **Sprint 4**.  
+  - **Estado de implementación:** ⏳ Pendiente (0%).  
+
+- **El usuario cliente elimina un último deseo si ya no lo considera necesario.**  
+  - **Interacción con el software:** Sección "Últimos Deseos" con botón de eliminación.  
+  - **Sprint:** Planificado para el **Sprint 4**.  
+  - **Estado de implementación:** ⏳ Pendiente (0%).  
+
+- **El usuario cliente visualiza la lista de sus últimos deseos guardados.**  
+  - **Interacción con el software:** Sección "Últimos Deseos" con listado de deseos creados.  
+  - **Sprint:** Planificado para el **Sprint 4**.  
+  - **Estado de implementación:** ⏳ Pendiente (0%). 
 
 ## 3. Enlace a la Demo en Vídeo
-El siguiente enlace redirige a la demostración en video de la aplicación utilizada en la evaluación del Sprint 2:
+El siguiente enlace redirige a la demostración en video de la aplicación utilizada en la evaluación del Sprint 3:
 
  **[Demostración funcional de la aplicación](https://github.com/ISPP-2425-G9/docs/blob/main/Sprint%202/functionalDemo.mp4)**
  
@@ -287,7 +309,7 @@ El siguiente enlace redirige a la demostración en video de la aplicación utili
  
 
 Formato: `.mp4`  
-Ubicación: Almacenado en el repositorio de GitHub en la carpeta `/Sprint 2`.
+Ubicación: Almacenado en el repositorio de GitHub en la carpeta `/Sprint 3`.
 
 ## 4. Datos Realistas en la Demo
 La demostración del software incluye datos realistas y escenarios de usuario con nombres y contenido verosímil, evitando información ficticia no representativa.
