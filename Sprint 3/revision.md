@@ -14,21 +14,23 @@ Solís Padilla, Isaac
 
 **Revisado por:**
 
+García Escudero, Ángel
 
 
 ## 1. Información General
 ### 1.1. URL del Repositorio de GitHub
 - **Repositorio de Github:** [GitHub - Caronte](https://github.com/ISPP-2425-G9)
-- **Aplicación Desplegada(Sprint 1):** [Despliegue - Caronte - Sprint 1 ](https://sprint1.caronte.site/home)
-- **Aplicación Desplegada(Sprint 2):** [Despliegue - Caronte - Sprint 2 ](https://sprint2.caronte.site/home)
-- **Aplicación Desplegada(Sprint 3):** [Despliegue - Caronte - Sprint 3 ](https://sprint3.caronte.site/home)
+- **Aplicación desplegada (Sprint 1):** [Despliegue - Caronte - Sprint 1 ](https://sprint1.caronte.site/home)
+- **Aplicación desplegada (Sprint 2):** [Despliegue - Caronte - Sprint 2 ](https://sprint2.caronte.site/home)
+- **Aplicación desplegada (Sprint 3):** [Despliegue - Caronte - Sprint 3 ](https://sprint3.caronte.site/home)
 - **Landing Page:** [Landing Page - Caronte](https://www.caronte.site/)
 - **Clockify:** [Clockify](https://clockify.me/)
-- **Devising a Project - Time Report:** [Devising a Project - Time Report](https://app.clockify.me/shared/67d358fa61753b24b9dc8224)
-- **Sprint 1 - Time Report:** [Sprint 1 - Time Report](https://app.clockify.me/shared/67d356c106a063047edb3578)
-- **Sprint 2 - Time Report:** [Sprint 2 - Time Report](https://app.clockify.me/shared/67e5b5eaf562c161b72c6dd3)
-- **General - Time Report:** [General - Time Report](https://app.clockify.me/shared/67e5b64f492c8e6e4f27af13)
-- **Aplicación de despligue:** [Railway](https://railway.com)
+- **Devising a Project - Time report:** [Devising a Project - Time Report](https://app.clockify.me/shared/67d358fa61753b24b9dc8224)
+- **Sprint 1 - Time report:** [Sprint 1 - Time Report](https://app.clockify.me/shared/67d356c106a063047edb3578)
+- **Sprint 2 - Time report:** [Sprint 2 - Time Report](https://app.clockify.me/shared/67e5b5eaf562c161b72c6dd3)
+- **Sprint 3 - Time report:** [Sprint 3 - Time Report](https://app.clockify.me/shared/67f80947fd002c01921db0c6)
+- **General - Time report:** [General - Time Report](https://app.clockify.me/shared/67f80990fd002c01921db190)
+- **Aplicación de despliegue:** [Railway](https://railway.com)
 
 ### 1.2. Credenciales de Acceso de Prueba
 ---
@@ -387,9 +389,9 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 ## 3. Enlace a la Demo en Vídeo
 El siguiente enlace redirige a la demostración en video de la aplicación utilizada en la evaluación del Sprint 3:
 
- **[Demostración funcional de la aplicación](https://github.com/ISPP-2425-G9/docs/blob/main/Sprint%202/functionalDemo.mp4)**
+ **[Demostración funcional de la aplicación]()**
  
- **[Demostración funcional de la aplicación (YouTube)](https://youtu.be/66dH-rnsPAY)**
+ **[Demostración funcional de la aplicación (YouTube)]()**
  
 
 Formato: `.mp4`  
