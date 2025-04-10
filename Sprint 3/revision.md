@@ -39,7 +39,7 @@ Para evaluar la aplicación, se proporcionan las siguientes credenciales:
     - **Cliente 2:** jose@caronte.site / **Contraseña:** cliente
     
 - Usuarios Empresa:
-    - **Empresa 1:** ventas@rosaseternas.es / **Contraseña:** empresa  
+    - **Empresa 1:** florapalace@caronte.site / **Contraseña:** empresa  
     - **Empresa 2:** memora@caronte.site / **Contraseña:** empresa
 
 - Usuario Administrador:
@@ -139,20 +139,42 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Interacción con el software: Botón "Eliminar" en la vista de gestión de usuarios.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
-- **El administrador lista todos los certificados**
-      ![image](https://github.com/user-attachments/assets/0a5dd5b7-dfc5-4a45-9dce-9ffd76f5251f)
 
-- **El administrador ver un certificado**
-      ![image](https://github.com/user-attachments/assets/8119ed35-f6bf-4dcd-8ac3-4e2645a69319)
-- **El administrador revisa las esquelas y mensajes asociadas a un certificado**
-      ![image](https://github.com/user-attachments/assets/137efd66-bf10-44ee-a711-5fc64c050545)
-      ![image](https://github.com/user-attachments/assets/dc67cc2c-48eb-49f4-b43e-d1c03e96d8b5)
+- **El administrador lista todos los certificados en el sistema.**  
+    - Imagen: Captura de la opción de listado de certificados en el panel de administración.  
+      ![image](https://github.com/user-attachments/assets/0a5dd5b7-dfc5-4a45-9dce-9ffd76f5251f)  
+    - Interacción con el software: Vista de listado de certificados en la gestión administrativa.  
+    - Sprint: Implementado en el **Sprint 3**.  
+    - Estado de implementación: ✅ Implementado.  
 
-- **El administrador acepta un certificado un certificado**
-      ![image](https://github.com/user-attachments/assets/3b21bd0c-6956-40ef-b0ce-060daeb2f0b6)
+- **El administrador visualiza los detalles de un certificado específico.**  
+    - Imagen: Captura de la vista de detalle de un certificado.  
+      ![image](https://github.com/user-attachments/assets/8119ed35-f6bf-4dcd-8ac3-4e2645a69319)  
+    - Interacción con el software: Página de detalles del certificado dentro del sistema.  
+    - Sprint: Implementado en el **Sprint 3**.  
+    - Estado de implementación: ✅ Implementado.  
 
-- **El administrador deniega un certificado**
-      ![image](https://github.com/user-attachments/assets/af2e53cb-af2e-49d6-ba53-1d35b4661fde)
+- **El administrador revisa las esquelas y mensajes vinculados a un certificado.**  
+    - Imagen: Captura de la lista de esquelas y mensajes asociados.  
+      ![image](https://github.com/user-attachments/assets/137efd66-bf10-44ee-a711-5fc64c050545)  
+      ![image](https://github.com/user-attachments/assets/dc67cc2c-48eb-49f4-b43e-d1c03e96d8b5)  
+    - Interacción con el software: Vista de esquelas y mensajes dentro del detalle del certificado.  
+    - Sprint: Implementado en el **Sprint 3**.  
+    - Estado de implementación: ✅ Implementado.   
+
+- **El administrador acepta un certificado tras su revisión.**  
+    - Imagen: Captura de la opción de aprobación de un certificado.  
+      ![image](https://github.com/user-attachments/assets/3b21bd0c-6956-40ef-b0ce-060daeb2f0b6)  
+    - Interacción con el software: Botón "Aceptar" en la vista de detalle del certificado.  
+    - Sprint: Implementado en el **Sprint 3**.  
+    - Estado de implementación: ✅ Implementado.  
+
+- **El administrador deniega un certificado tras su revisión.**  
+    - Imagen: Captura de la opción de denegación de un certificado.  
+      ![image](https://github.com/user-attachments/assets/af2e53cb-af2e-49d6-ba53-1d35b4661fde)  
+    - Interacción con el software: Botón "Denegar" en la vista de detalle del certificado.  
+    - Sprint: Implementado en el **Sprint 3**.  
+    - Estado de implementación: ✅ Implementado.  
 
 
 ### 2.3. Gestión de patrocinadores
