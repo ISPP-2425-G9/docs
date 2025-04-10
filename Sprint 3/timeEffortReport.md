@@ -16,37 +16,37 @@ García Escudero, Ángel
 
 ---
 
-
+![Informe resumido](https://github.com/user-attachments/assets/04f6cc34-19fd-432b-a30e-0b798ebb9e3b)
 
 ---
 
 ## Comparación entre Sprint 1, Sprint 2 y Sprint 3
 
-
+![Comparacion](https://github.com/user-attachments/assets/7f33fadf-10f2-4959-807f-04209b846954)
 
 ---
 
 ## Horas de trabajo por miembro del equipo en el proyecto completo
 
-
+![UsuariosGeneral](https://github.com/user-attachments/assets/6a3ee8d9-f31b-408c-8828-87b0b8fe23ca)
 
 ---
 
 ## Horas de trabajo por miembro del equipo en el Sprint 3
 
-
+![Usuario](https://github.com/user-attachments/assets/71254cb6-0459-49e5-9dc4-4e28a51a3dd4)
 
 ---
 
 ## Horas de trabajo por sección
 
-
+![Tarea](https://github.com/user-attachments/assets/4ed7811a-4fa2-4d22-9170-64a275484623)
 
 ---
 
 ## Horas de trabajo por tarea
 
-
+![Etiqueta](https://github.com/user-attachments/assets/5045ac18-6ca4-45e5-8705-6b3e64806f94)
 
 ---
 
