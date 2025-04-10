@@ -320,7 +320,7 @@ García Escudero, Ángel
 - Representante de Caronte en la presentación  
 - Gestión de las redes sociales (WhatsApp y LinkedIn)
 
-### García Carballo, Juan  
+### García Carballo, Juan (Coordinador de Backend)
 - Desarrollo en backend: implementación de gestión de planes de clientes, mejora de la búsqueda de los servicios patrocinados y desarrollo de la gestión de contacto de emergencias  
 - Elaboración de los Storyboards  
 - Creación de las presentaciones
@@ -386,17 +386,14 @@ García Escudero, Ángel
 
 * Desarrollo en frontend: implementación de la gestión de creación y personalización de mensajes, mejoras en la gestión de esquelas y certificados de defunción, implementación de mejoras basadas en feedback de usuarios piloto y testing
 
-
 ### Chico Castellano, Álvaro:
 
 * Desarrollador en frontend: revisión y corrección de errores  
 * Elaboración del anuncio de clientes e inversores
 
-
 ### Duque Colete, Rafael (Coordinador de Frontend):
 
 * Desarrollo en frontend: implementación de la gestión de creación y personalización de mensajes, implementación de mejoras basadas en feedback de usuarios piloto y testing
-
 
 ### Galván Cancio, Daniel (Coordinador de Marketing):
 
@@ -408,14 +405,12 @@ García Escudero, Ángel
 * Elaboración del anuncio de inversores  
 * Representante de Caronte en la presentación
 
-
-### García Carballo, Juan:
+### García Carballo, Juan (Coordinador de Backend):
 
 * Desarrollo en frontend: desarrollo del footer  
 * Ayuda en el despliegue de la aplicación   
 * Mejora de los Storyboards  
 * Creación de las presentaciones
-
 
 ### García Escudero, Ángel (Coordinador de Documentación y GitHub):
 
@@ -457,15 +452,11 @@ García Escudero, Ángel
 
 * Desarrollo en frontend: implementación de la vista de verificación de certificados de defunción y mejoras en las vistas basadas en el feedback de los usuarios piloto
 
-
 ### Muñoz Rodríguez, Jorge (Coordinador de Despliegue):
 
 * Desarrollo en frontend: refactorización y testing  
 * Migración del dominio y base de datos de la aplicación  
 * Gestión, optimización y mantenimiento del despliegue de la aplicación
-
-
-  
 
 ### Pérez Santiago, Alejandro:
 
@@ -474,13 +465,11 @@ García Escudero, Ángel
 * Unificación del feedback de clase  
 * Elaboración del informe de feedback y lecciones tomadas
 
-
 ### Rodríguez Reina, Javier:
 
 * Desarrollo en backend: gestión de la lógica de la validación del certificado de defunción, refactorización sobre la gestión de mensajes y creación de tests unitarios  
 * Elaboración de cuentas para la gestión de certificados para el programa de usuarios piloto  
 * Elaboración del informe de software implementado y casos de uso del Sprint 3
-
 
 ### Solís Padilla, Isaac:
 
@@ -488,7 +477,6 @@ García Escudero, Ángel
 * Elaboración del informe de seguimiento y rendimiento de los usuarios piloto  
 * Elaboración de las demos para presentar las nuevas funcionalidades en la presentación  
 * Elaboración del informe de software implementado y casos de uso del Sprint 3
-
 
 ### Youssafi Benichikh, Karim:
 
