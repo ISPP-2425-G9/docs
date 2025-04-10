@@ -67,31 +67,36 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Interacción con el software: Página previa al registro donde el usuario elige su rol.
     - Sprint: Implementado en el **Sprint 1**. Modificada en el **sprint 2**
     - Estado de implementación: ✅ Implementado.
+      
 - **El usuario cliente se registra en el sistema, proporcionando sus credenciales.**
     - Imagen: Captura del formulario de registro para el usuario.
      ![Registro de usuario](https://github.com/user-attachments/assets/40c86cd3-ff7c-4c92-85ec-437abba2efbc)
     - Interacción con el software: Página de registro con validación de datos.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
-- **El usuario inicia sesión en la plataforma utilizando sus credenciales previamente registradas.**
+      
+- **El usuario cliente inicia sesión en la plataforma utilizando sus credenciales previamente registradas.**
     - Imagen: Captura de la pantalla de inicio de sesión.
       ![image](https://github.com/user-attachments/assets/49a50078-1ba1-4862-b94e-c51ff0f3473f)
     - Interacción con el software: Página de login con autenticación.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
-- **El usuario edita la información de su perfil, actualizando sus datos personales según sea necesario.**
+      
+- **El usuario cliente edita la información de su perfil, actualizando sus datos personales según sea necesario.**
     - Imagen: Captura de la pantalla de edición de perfil.
     ![image](https://github.com/user-attachments/assets/a996ce58-25eb-4660-8d21-acc1a9a121e7)
     - Interacción con el software: Sección "Mi perfil" con opciones de edición.
     - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2**
     - Estado de implementación: ✅ Implementado.
-- **El usuario elimina su cuenta, eliminando su perfil del sistema de manera permanente.**
+      
+- **El usuario cliente elimina su cuenta, eliminando su perfil del sistema de manera permanente.**
     - Imagen: Captura de la opción de eliminación de cuenta en la configuración de perfil.
       ![image](https://github.com/user-attachments/assets/7cd07e83-10cf-48af-895d-deacc0d4ff59)
     - Interacción con el software: Sección "Mi Perfil" con opción de eliminar cuenta.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
- - **El usuario añade contactos de emergencia para que sean notificados en caso de fallecimiento.**  
+      
+ - **El usuario cliente añade contactos de emergencia para que sean notificados en caso de fallecimiento.**  
     - **Imagen:** Captura de la opción para añadir contactos de emergencia.
       ![image](https://github.com/user-attachments/assets/090b6c4f-627f-4dee-9c63-9fe8a3dd1509)
     - Interacción con el software: Sección "Contactos de emergencia" con opción para gestionar contactos de emergencia.
@@ -106,30 +111,35 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Interacción con el software: Página de login con autenticación.
     - Imagen: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
+      
 - **El administrador visualiza y lista todos los clientes registrados en la plataforma.**
     - Imagen: Captura de la vista de listado de usuarios en el panel de administración.
       ![image](https://github.com/user-attachments/assets/a4e9bef5-0650-48ec-97dd-61af108c7e94)
     - Interacción con el software: Sección "Usuarios" en el panel de administración.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
+      
 - **El administrador visualiza y lista todos las empresas registradas en la plataforma.**
     - Imagen: Captura de la vista de listado de usuarios en el panel de administración.
       ![image](https://github.com/user-attachments/assets/dcdd5f97-d51e-4edb-809c-3d8294bdebf1)
     - Interacción con el software: Sección "Usuarios" en el panel de administración.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
+      
 - **El administrador edita la información de un cliente registrado, modificando sus datos según sea necesario.**
     - Imagen: Captura de la pantalla de edición de usuario en el panel de administración.
       ![image](https://github.com/user-attachments/assets/67c6bb21-5d41-452f-86ce-d07a96e31936)
     - Interacción con el software: Opción "Editar" dentro del panel de administración.
     - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2***
     - Estado de implementación: ✅ Implementado.
+      
 - **El administrador edita la información de una empresa registrada, modificando sus datos según sea necesario.**
     - Imagen: Captura de la pantalla de edición de usuario en el panel de administración.
       ![image](https://github.com/user-attachments/assets/1a35d105-c613-4056-8d3f-f6f30fb3b0ef)
     - Interacción con el software: Opción "Editar" dentro del panel de administración.
     - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2***
     - Estado de implementación: ✅ Implementado.
+      
 - **El administrador elimina un perfil de usuario, eliminando su perfil del sistema de manera permanente.**
     - Imagen: Captura de la opción de eliminación de usuario en el panel de administración.
       ![image](https://github.com/user-attachments/assets/62f97139-6bdb-4db9-8474-56a7c3054064)
@@ -145,24 +155,28 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Interacción con el software: Sección "Patrocinadores" con detalle de cada empresa.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
+      
 - **El usuario empresa registra su información relacionada con los servicios que ofrece, datos de contacto, entre otros.**
     - Imagen: Captura del formulario de registro de empresa patrocinadora.
       ![image](https://github.com/user-attachments/assets/0220eec8-d23a-476f-bc5f-ca79a1be7f49)
     - Interacción con el software: Sección "Registrarse" dentro del área de empresa.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
+      
 - **El usuario empresa edita su información sobre los servicios ofrecidos, datos de contacto, etc.**
     - Imagen: Captura de la pantalla de edición de patrocinador.
       ![image](https://github.com/user-attachments/assets/89b32455-3959-4a2d-8484-351b35bf2e5e)
     - Interacción con el software: Sección "Registro de Empresas" en el área de patrocinadores.
     - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2**
     - Estado de implementación: ✅ Implementado.
+      
 - **El usuario empresa elimina su información sobre los servicios ofrecidos.**
     - Imagen: Captura de la opción de eliminación en la configuración del patrocinador.
       ![image](https://github.com/user-attachments/assets/1336fd2e-df6b-4f05-b10d-d30702bd5915)
     - Interacción con el software: Botón "Eliminar Perfil" en la gestión de patrocinadores.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
+      
 - **El usuario empresa visualiza el listado de empresas patrocinadoras disponibles en la plataforma.**
     - Imagen: Captura de la pantalla de lista de patrocinadores en la plataforma.
       ![image](https://github.com/user-attachments/assets/465f1cb4-7e7a-4ed2-9eae-952998348999)
@@ -178,6 +192,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Interacción con el software: Página "Mis Esquelas" donde se muestran las esquelas creadas.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
+      
 - **El usuario cliente crea una esquela personalizada, introduciendo los datos requeridos.**
     - Imagen: Captura del formulario de creación de esquelas.
       ![image](https://github.com/user-attachments/assets/3b4cad37-e6cc-4d23-965c-28db0c550959)
@@ -185,6 +200,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Datos requeridos: Nombre del difunto, fecha de nacimiento, mensaje de despedida, frase de despedida, destinatarios.
     - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 3**
     - Estado de implementación: ✅ Implementado.
+      
 - **El usuario cliente edita una esquela personalizada, modificando su contenido según sea necesario.**
     - Imagen: Captura de la pantalla de edición de esquelas.
       ![image](https://github.com/user-attachments/assets/1a762b3b-4f32-44d5-a280-04bda9a0eacb)
@@ -192,6 +208,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Datos requeridos: Nombre del difunto, fecha de nacimiento, mensaje de despedida, frase de despedida, destinatarios.
     - Sprint: Implementado en el **Sprint 1**.  Finalizado en el **Sprint 2**.
     - Estado de implementación:✅ Implementado.
+      
 - **El usuario elimina una esquela de su perfil, eliminándola de manera permanente del sistema.**  
     - Imagen: Captura de la opción para eliminar una esquela en la sección de gestión de esquelas.  
       ![image](https://github.com/user-attachments/assets/434136fd-c4b2-46ba-a0ab-933e8735785e)
@@ -207,25 +224,51 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Interacción con el software: Sección "Mis Mensajes" donde se muestra el historial de mensajes creados.
     - Sprint: Implementado en el **Sprint 2**. Finalizado en el **Sprint 3**
     - Estado de implementación: ✅ Implementado.
+      
 - **El usuario cliente crea un mensaje personalizado, introduciendo el contenido deseado.**
     - Imagen: Captura del formulario de creación de mensajes personalizados.
       ![image](https://github.com/user-attachments/assets/4db88edf-0dbf-4572-991e-30f7f026a8ea)
     - Interacción con el software: Botón "Crear Mensaje" en la sección "Mis Mensajes".
     - Sprint: Implementado en el **Sprint 2**. Finalizado en el **Sprint 3**
     - Estado de implementación: ✅ Implementado.
+      
 - **El usuario cliente edita un mensaje personalizado, modificando su contenido antes de su envío.**
     - Imagen: Captura de la pantalla de edición de mensajes.
     - Interacción con el software: Opción "Editar" en la vista de un mensaje guardado.
     - Sprint: Implementado en el **Sprint 2**. Finalizado en el **Sprint 3**
     - Estado de implementación: ✅ Implementado.
+      
 - **El usuario elimina un mensaje personalizado, eliminándolo de manera permanente del sistema.**
     - Imagen: Captura de la opción para eliminar un mensaje personalizado en la configuración de mensajes.  
     - Interacción con el software: Sección "Mensajes Personalizados" con opción para eliminar mensajes creados.  
     - Sprint: Implementado en el **Sprint 2**. Finalizado en el **Sprint 3**
     - Estado de implementación: ✅ Implementado.
+ 
+### 2.6. Gestión de contactos de emergencia  
+
+- **El usuario cliente añade contactos de emergencia para que sean notificados en caso de fallecimiento.**  
+  - **Imagen:** Captura de la opción para añadir contactos de emergencia.  
+    ![image]()  
+  - **Interacción con el software:** Sección "Contactos de emergencia" con opción para gestionar contactos de emergencia.  
+  - **Sprint:** Implementado en el **Sprint 2**.  
+  - **Estado de implementación:** ✅ Implementado.  
+
+- **El usuario cliente edita un contacto de emergencia previamente añadido.**  
+  - **Imagen:** Captura de la opción de edición de contactos de emergencia.  
+    ![image]()  
+  - **Interacción con el software:** Página "Contactos de emergencia" con botón de edición disponible.  
+  - **Sprint:** Implementado en el **Sprint 2**.  
+  - **Estado de implementación:** ✅ Implementado.  
+
+- **El usuario cliente elimina un contacto de emergencia si ya no lo considera necesario.**  
+  - **Imagen:** Captura de la opción de eliminación de contactos de emergencia.  
+    ![image]()  
+  - **Interacción con el software:** Sección "Contactos de emergencia" con botón de eliminación.  
+  - **Sprint:** Implementado en el **Sprint 2**.  
+  - **Estado de implementación:** ✅ Implementado. 
 
 
-### 2.6. Gestión de fallecimientos
+### 2.7. Gestión de fallecimientos
 
 - **En caso de fallecimiento del usuario cliente, una persona con acceso sube el certificado de defunción para validarlo en la plataforma.**
     - Imagen: Captura de la pantalla de subida del certificado.
@@ -233,17 +276,20 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Interacción con el software: Página "Validación de Defunción" donde se sube el documento.
     - Sprint: Implementado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
+      
 - **Si un usuario cliente desea realizar una esquela post-mortem, sube el certificado de defunción como requisito previo.**
     - Imagen: Captura de la opción de subida del certificado en la creación de esquelas.
       ![image](https://github.com/user-attachments/assets/68758c24-9fe7-44f9-b4b5-01e17f3bab02)
     - Interacción con el software: Sección "Crear Esquela" con requisito de documento de defunción.
     - Sprint: Implementado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
+      
 - **Tras la validación del certificado de defunción, el sistema procesa el envío de esquelas y mensajes previamente configurados por el usuario cliente.**
     - Imagen: Captura del estado de validación de defunción en la plataforma.
     - Interacción con el software: Notificación de aprobación del certificado y activación del envío automático.
     - Sprint: Implementado en el **Sprint 3**.
     - Estado de implementación: ✅ Implementado.
+      
  - - **El usuario cliente y sus contactos de emergencia reciben una notificación o recordatorio si se detecta la falta de pago del plan pre-mortem.**
     - Imagen: Captura de la alerta enviada a los contactos de emergencia.
     - Interacción con el software: Sistema de notificaciones de la aplicación y envío por correo/SMS.
@@ -251,7 +297,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Estado de implementación: ⏳ Pendiente.
       - Porcentaje completado: 50%.
 
-### 2.7. Gestión de planes
+### 2.8. Gestión de planes
 
 - **El usuario cliente lista los planes de precios disponibles en la plataforma.**
     - Imagen: Captura de la página donde se muestran los planes de suscripción.
@@ -259,18 +305,21 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Interacción con el software: Sección "Planes" con detalles de precios y beneficios.
     - Sprint: Implementado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
+      
 - **El usuario cliente selecciona un plan de precios, de acuerdo con sus necesidades.**
     - Imagen: Captura de la opción de selección de planes.
       ![image](https://github.com/user-attachments/assets/50178c34-f45e-4c28-afd8-32fa29d6993c)
     - Interacción con el software: Página "Planes" con botón de selección.
     - Sprint: Implementado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
+      
 - **El usuario cliente introduce sus credenciales para completar el pago.**
     - Imagen: Captura de la pasarela de pago.
       ![image](https://github.com/user-attachments/assets/e50a9797-ead8-4189-bef7-9a932e483d03)
     - Interacción con el software: Integración con Stripe en la sección "Planes".
     - Sprint: Implementado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
+      
 - **Tras realizar un pago exitoso, el usuario cliente recibe un mensaje de confirmación.**
     - Imagen: Ejemplo del recibo de pago generado automáticamente.
       ![image](https://github.com/user-attachments/assets/be3e454c-17e6-43ef-86fe-b21a35d660ec)
@@ -278,7 +327,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Sprint: Implementado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
  
-### 2.8. Gestión de Últimos Deseos  
+### 2.9. Gestión de Últimos Deseos  
 
 - **El usuario cliente crea un último deseo en la plataforma.**  
   - **Interacción con el software:** Sección "Últimos Deseos" con formulario para ingresar detalles del deseo.  
