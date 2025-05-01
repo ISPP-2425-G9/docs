@@ -232,7 +232,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
  
-  - **El usuario empresa recupera su contraseña tras olvidarla.** 
+- **El usuario empresa recupera su contraseña tras olvidarla.** 
     - Imagen: Captura de la opción de recuperación de la contraseña en el inicio de sesión.
       ![image](https://github.com/user-attachments/assets/9526b62a-b3f4-4414-bbbf-49cf1ad61542)
     - Interacción con el software: Sección "Iniciar Sesión".
