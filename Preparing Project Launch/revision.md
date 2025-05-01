@@ -141,14 +141,14 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Imagen: Captura de la pantalla de edición de usuario en el panel de administración.
       ![image](https://github.com/user-attachments/assets/a42202c6-2025-416e-bd60-1f208631607b)
     - Interacción con el software: Opción "Editar" dentro del panel de administración.
-    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2***
+    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
       
 - **El administrador edita la información de una empresa registrada, modificando sus datos según sea necesario.**
     - Imagen: Captura de la pantalla de edición de usuario en el panel de administración.
       ![image](https://github.com/user-attachments/assets/bfcee32d-4ae2-4c69-bef6-b136ec599eac)
     - Interacción con el software: Opción "Editar" dentro del panel de administración.
-    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2***
+    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
       
 - **El administrador elimina un perfil de usuario, eliminando su perfil del sistema de manera permanente.**
