@@ -30,8 +30,8 @@ Solís Padilla, Isaac
 - **Sprint 1 - Time report:** [Sprint 1 - Time Report](https://app.clockify.me/shared/67d356c106a063047edb3578)
 - **Sprint 2 - Time report:** [Sprint 2 - Time Report](https://app.clockify.me/shared/67e5b5eaf562c161b72c6dd3)
 - **Sprint 3 - Time report:** [Sprint 3 - Time Report](https://app.clockify.me/shared/67f80947fd002c01921db0c6)
-- **Preparing Project Launch - Time report:** [PPL - Time Report]()
-- **General - Time report:** [General - Time Report]()
+- **Preparing Project Launch - Time report:** [Preparing Project Launch - Time Report](https://app.clockify.me/shared/681399e0f6832429953ac377)
+- **General - Time report:** [General - Time Report](https://app.clockify.me/shared/68139a5912b8445b6f731504)
 - **Aplicación de despliegue:** [Railway](https://railway.com)
 
 ### 1.2. Credenciales de Acceso de Prueba
@@ -43,7 +43,7 @@ Para evaluar la aplicación, se proporcionan las siguientes credenciales:
     - **Cliente 2:** jose@caronte.site / **Contraseña:** customer
     
 - Usuarios Empresa:
-    - **Empresa 1:** florapalace@caronte.site / **Contraseña:** empresa  
+    - **Empresa 1:** florapalace@caronte.site / **Contraseña:** empresa
     - **Empresa 2:** memora@caronte.site / **Contraseña:** empresa
 
 - Usuario Administrador:
@@ -88,19 +88,19 @@ Para garantizar una correcta experiencia de uso, se recomienda:
  
 - **El usuario cliente modifica su contraseña.**
     - Imagen: Captura de la pantalla de modificacion de contraseña.
-    - ![image](https://github.com/user-attachments/assets/54ddfe44-70ae-4eaa-a57f-f52ffbc53d7e)
+      ![image](https://github.com/user-attachments/assets/54ddfe44-70ae-4eaa-a57f-f52ffbc53d7e)
     - Interacción con el software: Sección "Mi perfil" con opciones de modificar la contraseña.
     - Sprint: Implementado en el **Sprint 2**. 
     - Estado de implementación: ✅ Implementado.
       
 - **El usuario cliente edita la información de su perfil, actualizando sus datos personales según sea necesario.**
     - Imagen: Captura de la pantalla de edición de perfil.
-    ![image](https://github.com/user-attachments/assets/fdb30d73-9d3f-4690-9af9-390e1afc464c)
+      ![image](https://github.com/user-attachments/assets/fdb30d73-9d3f-4690-9af9-390e1afc464c)
     - Interacción con el software: Sección "Mi perfil" con opciones de edición.
     - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2**
     - Estado de implementación: ✅ Implementado.
       
-- **El usuario cliente elimina (anonimiza) su cuenta, eliminando su perfil del sistema de manera permanente.**  HAY QUE CAMBIARLO 
+- **El usuario cliente elimina (anonimiza) su información sobre su perfil.**
     - Imagen: Captura de la opción de eliminación de cuenta en la configuración de perfil.
       ![image](https://github.com/user-attachments/assets/33c5a6f2-ab9c-49c8-af52-8fc6aa420f05)
     - Interacción con el software: Sección "Mi Perfil" con opción de eliminar cuenta.
@@ -109,7 +109,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
  
 - **El usuario cliente recupera su contraseña tras olvidarla.** 
     - Imagen: Captura de la opción de recuperación de la contraseña en el inicio de sesión.
-    - ![image](https://github.com/user-attachments/assets/9526b62a-b3f4-4414-bbbf-49cf1ad61542)
+      ![image](https://github.com/user-attachments/assets/9526b62a-b3f4-4414-bbbf-49cf1ad61542)
     - Interacción con el software: Sección "Iniciar Sesión".
     - Sprint: Implementado en el **Preparing Project Launch**.
     - Estado de implementación: ✅ Implementado. 
@@ -141,14 +141,14 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Imagen: Captura de la pantalla de edición de usuario en el panel de administración.
       ![image](https://github.com/user-attachments/assets/a42202c6-2025-416e-bd60-1f208631607b)
     - Interacción con el software: Opción "Editar" dentro del panel de administración.
-    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2***
+    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
       
 - **El administrador edita la información de una empresa registrada, modificando sus datos según sea necesario.**
     - Imagen: Captura de la pantalla de edición de usuario en el panel de administración.
       ![image](https://github.com/user-attachments/assets/bfcee32d-4ae2-4c69-bef6-b136ec599eac)
     - Interacción con el software: Opción "Editar" dentro del panel de administración.
-    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2***
+    - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
       
 - **El administrador elimina un perfil de usuario, eliminando su perfil del sistema de manera permanente.**
@@ -200,7 +200,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 - **El usuario cliente lista y visualiza los detalles de cada una de las empresas patrocinadoras.**
     - Imagen: Captura de la pantalla de lista de patrocinadores.
      ![image](https://github.com/user-attachments/assets/782a9b83-885a-42ec-aa2e-d9c331baa061)
-    - Interacción con el software: Sección "Patrocinadores" con detalle de cada empresa.
+    - Interacción con el software: Sección "Servicios" con detalle de cada empresa.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
       
@@ -232,9 +232,9 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
  
-  - **El usuario empresa recupera su contraseña tras olvidarla.** 
+- **El usuario empresa recupera su contraseña tras olvidarla.** 
     - Imagen: Captura de la opción de recuperación de la contraseña en el inicio de sesión.
-    - ![image](https://github.com/user-attachments/assets/9526b62a-b3f4-4414-bbbf-49cf1ad61542)
+      ![image](https://github.com/user-attachments/assets/9526b62a-b3f4-4414-bbbf-49cf1ad61542)
     - Interacción con el software: Sección "Iniciar Sesión".
     - Sprint: Implementado en el **Preparing Project Launch**.
     - Estado de implementación: ✅ Implementado. 
@@ -243,7 +243,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 
 - **El usuario cliente lista las esquelas personalizadas creadas en la plataforma.**
     - Imagen: Captura de pantalla de la sección donde se listan las esquelas.
-     ![image](https://github.com/user-attachments/assets/b9f58eba-8475-4bed-8a4c-353f9c19930e)
+      ![image](https://github.com/user-attachments/assets/b9f58eba-8475-4bed-8a4c-353f9c19930e)
     - Interacción con el software: Página "Mis Esquelas" donde se muestran las esquelas creadas.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
@@ -252,7 +252,6 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Imagen: Captura del formulario de creación de esquelas.
       ![image](https://github.com/user-attachments/assets/44cee9bc-e7b0-4a50-af7c-62bd1a3d3938)
     - Interacción con el software: Apartado de las plantillas de las esquelas y le damos a la plantilla que queramos crear.
-    - Datos requeridos: Nombre del difunto, fecha de nacimiento, mensaje de despedida, frase de despedida, destinatarios.
     - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 3**
     - Estado de implementación: ✅ Implementado.
       
@@ -260,13 +259,12 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Imagen: Captura de la pantalla de edición de esquelas.
       ![image](https://github.com/user-attachments/assets/aaabe7be-823c-40f7-9a47-ff3017c48a2e)
     - Interacción con el software: Opción "Editar" en la vista de una esquela existente.
-    - Datos requeridos: Nombre del difunto, fecha de nacimiento, mensaje de despedida, frase de despedida, destinatarios.
     - Sprint: Implementado en el **Sprint 1**.  Finalizado en el **Sprint 2**.
     - Estado de implementación:✅ Implementado.
       
 - **El usuario elimina una esquela de su perfil, eliminándola de manera permanente del sistema.**  
     - Imagen: Captura de la opción para eliminar una esquela en la sección de gestión de esquelas.  
-     ![image](https://github.com/user-attachments/assets/368cbf27-3303-432b-8f5c-84c3cc9b163d)
+      ![image](https://github.com/user-attachments/assets/368cbf27-3303-432b-8f5c-84c3cc9b163d)
     - Interacción con el software: Sección "Mis Esquelas" con opción para eliminar esquelas creadas.  
     - Sprint: Implementado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
