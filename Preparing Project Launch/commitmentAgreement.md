@@ -2,7 +2,7 @@
 
 # Commitment Agreement
 
-# Sprint 3
+# Preparing Project Launch
 
 # Grupo 9
 
