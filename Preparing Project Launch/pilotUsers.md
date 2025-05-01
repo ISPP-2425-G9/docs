@@ -2,7 +2,7 @@
 
 # Usuarios piloto
 
-# Sprint 3
+# Preparing Project Launch
 
 # Grupo 9
 
