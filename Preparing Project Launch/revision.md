@@ -200,7 +200,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 - **El usuario cliente lista y visualiza los detalles de cada una de las empresas patrocinadoras.**
     - Imagen: Captura de la pantalla de lista de patrocinadores.
      ![image](https://github.com/user-attachments/assets/782a9b83-885a-42ec-aa2e-d9c331baa061)
-    - Interacción con el software: Sección "Patrocinadores" con detalle de cada empresa.
+    - Interacción con el software: Sección "Servicios" con detalle de cada empresa.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
       
