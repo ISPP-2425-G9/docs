@@ -88,14 +88,14 @@ Para garantizar una correcta experiencia de uso, se recomienda:
  
 - **El usuario cliente modifica su contraseña.**
     - Imagen: Captura de la pantalla de modificacion de contraseña.
-    - ![image](https://github.com/user-attachments/assets/54ddfe44-70ae-4eaa-a57f-f52ffbc53d7e)
+      ![image](https://github.com/user-attachments/assets/54ddfe44-70ae-4eaa-a57f-f52ffbc53d7e)
     - Interacción con el software: Sección "Mi perfil" con opciones de modificar la contraseña.
     - Sprint: Implementado en el **Sprint 2**. 
     - Estado de implementación: ✅ Implementado.
       
 - **El usuario cliente edita la información de su perfil, actualizando sus datos personales según sea necesario.**
     - Imagen: Captura de la pantalla de edición de perfil.
-    ![image](https://github.com/user-attachments/assets/fdb30d73-9d3f-4690-9af9-390e1afc464c)
+      ![image](https://github.com/user-attachments/assets/fdb30d73-9d3f-4690-9af9-390e1afc464c)
     - Interacción con el software: Sección "Mi perfil" con opciones de edición.
     - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2**
     - Estado de implementación: ✅ Implementado.
@@ -109,7 +109,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
  
 - **El usuario cliente recupera su contraseña tras olvidarla.** 
     - Imagen: Captura de la opción de recuperación de la contraseña en el inicio de sesión.
-    - ![image](https://github.com/user-attachments/assets/9526b62a-b3f4-4414-bbbf-49cf1ad61542)
+      ![image](https://github.com/user-attachments/assets/9526b62a-b3f4-4414-bbbf-49cf1ad61542)
     - Interacción con el software: Sección "Iniciar Sesión".
     - Sprint: Implementado en el **Preparing Project Launch**.
     - Estado de implementación: ✅ Implementado. 
@@ -234,7 +234,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
  
   - **El usuario empresa recupera su contraseña tras olvidarla.** 
     - Imagen: Captura de la opción de recuperación de la contraseña en el inicio de sesión.
-    - ![image](https://github.com/user-attachments/assets/9526b62a-b3f4-4414-bbbf-49cf1ad61542)
+      ![image](https://github.com/user-attachments/assets/9526b62a-b3f4-4414-bbbf-49cf1ad61542)
     - Interacción con el software: Sección "Iniciar Sesión".
     - Sprint: Implementado en el **Preparing Project Launch**.
     - Estado de implementación: ✅ Implementado. 
@@ -243,7 +243,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 
 - **El usuario cliente lista las esquelas personalizadas creadas en la plataforma.**
     - Imagen: Captura de pantalla de la sección donde se listan las esquelas.
-     ![image](https://github.com/user-attachments/assets/b9f58eba-8475-4bed-8a4c-353f9c19930e)
+      ![image](https://github.com/user-attachments/assets/b9f58eba-8475-4bed-8a4c-353f9c19930e)
     - Interacción con el software: Página "Mis Esquelas" donde se muestran las esquelas creadas.
     - Sprint: Implementado en el **Sprint 1**.
     - Estado de implementación: ✅ Implementado.
@@ -252,7 +252,6 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Imagen: Captura del formulario de creación de esquelas.
       ![image](https://github.com/user-attachments/assets/44cee9bc-e7b0-4a50-af7c-62bd1a3d3938)
     - Interacción con el software: Apartado de las plantillas de las esquelas y le damos a la plantilla que queramos crear.
-    - Datos requeridos: Nombre del difunto, fecha de nacimiento, mensaje de despedida, frase de despedida, destinatarios.
     - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 3**
     - Estado de implementación: ✅ Implementado.
       
@@ -260,13 +259,12 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Imagen: Captura de la pantalla de edición de esquelas.
       ![image](https://github.com/user-attachments/assets/aaabe7be-823c-40f7-9a47-ff3017c48a2e)
     - Interacción con el software: Opción "Editar" en la vista de una esquela existente.
-    - Datos requeridos: Nombre del difunto, fecha de nacimiento, mensaje de despedida, frase de despedida, destinatarios.
     - Sprint: Implementado en el **Sprint 1**.  Finalizado en el **Sprint 2**.
     - Estado de implementación:✅ Implementado.
       
 - **El usuario elimina una esquela de su perfil, eliminándola de manera permanente del sistema.**  
     - Imagen: Captura de la opción para eliminar una esquela en la sección de gestión de esquelas.  
-     ![image](https://github.com/user-attachments/assets/368cbf27-3303-432b-8f5c-84c3cc9b163d)
+      ![image](https://github.com/user-attachments/assets/368cbf27-3303-432b-8f5c-84c3cc9b163d)
     - Interacción con el software: Sección "Mis Esquelas" con opción para eliminar esquelas creadas.  
     - Sprint: Implementado en el **Sprint 2**.
     - Estado de implementación: ✅ Implementado.
