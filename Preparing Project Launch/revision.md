@@ -30,8 +30,8 @@ Solís Padilla, Isaac
 - **Sprint 1 - Time report:** [Sprint 1 - Time Report](https://app.clockify.me/shared/67d356c106a063047edb3578)
 - **Sprint 2 - Time report:** [Sprint 2 - Time Report](https://app.clockify.me/shared/67e5b5eaf562c161b72c6dd3)
 - **Sprint 3 - Time report:** [Sprint 3 - Time Report](https://app.clockify.me/shared/67f80947fd002c01921db0c6)
-- **Preparing Project Launch - Time report:** [PPL - Time Report]()
-- **General - Time report:** [General - Time Report]()
+- **Preparing Project Launch - Time report:** [PPL - Time Report](https://app.clockify.me/shared/681399e0f6832429953ac377)
+- **General - Time report:** [General - Time Report](https://app.clockify.me/shared/68139a5912b8445b6f731504)
 - **Aplicación de despliegue:** [Railway](https://railway.com)
 
 ### 1.2. Credenciales de Acceso de Prueba
@@ -43,7 +43,7 @@ Para evaluar la aplicación, se proporcionan las siguientes credenciales:
     - **Cliente 2:** jose@caronte.site / **Contraseña:** customer
     
 - Usuarios Empresa:
-    - **Empresa 1:** florapalace@caronte.site / **Contraseña:** empresa  
+    - **Empresa 1:** florapalace@caronte.site / **Contraseña:** empresa
     - **Empresa 2:** memora@caronte.site / **Contraseña:** empresa
 
 - Usuario Administrador:
