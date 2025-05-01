@@ -14,17 +14,16 @@ Solís Padilla, Isaac
 
 **Revisado por:**
 
-
-
+García Escudero, Ángel
 
 ## 1. Información General
 ### 1.1. URL del Repositorio de GitHub
-- **Repositorio de Github:** [GitHub - Caronte](https://github.com/ISPP-2425-G9)
+- **Organización de Github:** [GitHub - Caronte](https://github.com/ISPP-2425-G9)
 - **Aplicación desplegada (Sprint 1):** [Despliegue - Caronte - Sprint 1 ](https://sprint1.caronte.site/home)
 - **Aplicación desplegada (Sprint 2):** [Despliegue - Caronte - Sprint 2 ](https://sprint2.caronte.site/home)
 - **Aplicación desplegada (Sprint 3):** [Despliegue - Caronte - Sprint 3 ](https://sprint3.caronte.site/home)
 - **Aplicación desplegada (Preparing Project Launch):** [Despliegue - Caronte - PPL ](https://ppl.caronte.site/home)
-- **Landing Page:** [Landing Page - Caronte](https://www.caronte.site/)
+- **Landing page:** [Landing Page - Caronte](https://www.caronte.site/)
 - **Clockify:** [Clockify](https://clockify.me/)
 - **Devising a Project - Time report:** [Devising a Project - Time Report](https://app.clockify.me/shared/67d358fa61753b24b9dc8224)
 - **Sprint 1 - Time report:** [Sprint 1 - Time Report](https://app.clockify.me/shared/67d356c106a063047edb3578)
@@ -34,7 +33,7 @@ Solís Padilla, Isaac
 - **General - Time report:** [General - Time Report](https://app.clockify.me/shared/68139a5912b8445b6f731504)
 - **Aplicación de despliegue:** [Railway](https://railway.com)
 
-### 1.2. Credenciales de Acceso de Prueba
+### 1.2. Credenciales de acceso de prueba
 ---
 Para evaluar la aplicación, se proporcionan las siguientes credenciales:
 
@@ -56,12 +55,12 @@ Para evaluar la aplicación, se proporcionan las siguientes credenciales:
     - Por motivos de seguridad y debido al funcionamiento de la plataforma Railway, no es posible compartir estas credenciales. Si fueran interceptadas, podrían comprometer información sensible, incluyendo el acceso a la cuenta bancaria personal de uno de los miembros del equipo. Por esta razón, se ha decidido mantenerlas confidenciales para evitar cualquier riesgo de seguridad.
 
 
-### 1.3. Requisitos para el Uso del Sistema
+### 1.3. Requisitos para el uso del sistema
 ---
 Para garantizar una correcta experiencia de uso, se recomienda:
 - Permitir el acceso a **notificaciones** en el navegador para recordatorios de mensajes.
 
-## 2. Mapeo de Casos de Uso Core a Interacciones del Software
+## 2. Mapeo de casos de Uso Core a interacciones del software
 
 ### 2.1. Gestión de Usuarios
 
@@ -408,12 +407,10 @@ Para garantizar una correcta experiencia de uso, se recomienda:
   - **Estado de implementación:** ⏳ Pendiente (0%). 
 
 ## 3. Enlace a la Demo en Vídeo
-El siguiente enlace redirige a la demostración en video de la aplicación utilizada en la evaluación del Sprint 3:
+El siguiente enlace redirige a la demostración en video de la aplicación utilizada en la evaluación del Preparing Project Launch:
 
- 
  **[Demostración funcional de la aplicación (YouTube)](https://youtu.be/24RoQ8d2txg)**
  
-
 Formato: `.mp4`  
 Ubicación: Almacenado en el repositorio de GitHub en la carpeta `/Preparing Project Launch`.
 
