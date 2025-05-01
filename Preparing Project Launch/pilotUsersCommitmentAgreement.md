@@ -2,7 +2,7 @@
 
 # Acuerdo de compromiso de usuarios piloto
 
-# Sprint 2
+# Preparing Project Launch
 
 # Grupo 9
 
