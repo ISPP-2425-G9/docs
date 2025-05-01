@@ -40,7 +40,7 @@ Para evaluar la aplicación, se proporcionan las siguientes credenciales:
 
 - Usuarios Cliente:
     - **Cliente 1:** pedro@caronte.site / **Contraseña:** customer  
-    - **Cliente 2:** jose@caronte.site / **Contraseña:** cliente
+    - **Cliente 2:** jose@caronte.site / **Contraseña:** customer
     
 - Usuarios Empresa:
     - **Empresa 1:** florapalace@caronte.site / **Contraseña:** empresa  
@@ -87,8 +87,8 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Estado de implementación: ✅ Implementado.
  
 - **El usuario cliente modifica su contraseña.**
-    - Imagen: Captura de la pantalla de edición de perfil.
-  
+    - Imagen: Captura de la pantalla de modificacion de contraseña.
+    - ![image](https://github.com/user-attachments/assets/54ddfe44-70ae-4eaa-a57f-f52ffbc53d7e)
     - Interacción con el software: Sección "Mi perfil" con opciones de modificar la contraseña.
     - Sprint: Implementado en el **Sprint 2**. 
     - Estado de implementación: ✅ Implementado.
@@ -109,7 +109,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
  
 - **El usuario cliente recupera su contraseña tras olvidarla.** 
     - Imagen: Captura de la opción de recuperación de la contraseña en el inicio de sesión.
-
+    - ![image](https://github.com/user-attachments/assets/9526b62a-b3f4-4414-bbbf-49cf1ad61542)
     - Interacción con el software: Sección "Iniciar Sesión".
     - Sprint: Implementado en el **Preparing Project Launch**.
     - Estado de implementación: ✅ Implementado. 
@@ -234,7 +234,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
  
   - **El usuario empresa recupera su contraseña tras olvidarla.** 
     - Imagen: Captura de la opción de recuperación de la contraseña en el inicio de sesión.
-
+    - ![image](https://github.com/user-attachments/assets/9526b62a-b3f4-4414-bbbf-49cf1ad61542)
     - Interacción con el software: Sección "Iniciar Sesión".
     - Sprint: Implementado en el **Preparing Project Launch**.
     - Estado de implementación: ✅ Implementado. 
@@ -413,11 +413,11 @@ Para garantizar una correcta experiencia de uso, se recomienda:
 El siguiente enlace redirige a la demostración en video de la aplicación utilizada en la evaluación del Sprint 3:
 
  
- **[Demostración funcional de la aplicación (YouTube)](https://youtu.be/lbhLIhb0xXk)**
+ **[Demostración funcional de la aplicación (YouTube)](https://youtu.be/24RoQ8d2txg)**
  
 
 Formato: `.mp4`  
-Ubicación: Almacenado en el repositorio de GitHub en la carpeta `/Sprint 3`.
+Ubicación: Almacenado en el repositorio de GitHub en la carpeta `/Preparing Project Launch`.
 
 ## 4. Datos Realistas en la Demo
 La demostración del software incluye datos realistas y escenarios de usuario con nombres y contenido verosímil, evitando información ficticia no representativa.
