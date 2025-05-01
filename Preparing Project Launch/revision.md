@@ -100,7 +100,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
     - Sprint: Implementado en el **Sprint 1**. Finalizado en el **Sprint 2**
     - Estado de implementación: ✅ Implementado.
       
-- **El usuario cliente elimina (anonimiza) su cuenta, eliminando su perfil del sistema de manera permanente.**  HAY QUE CAMBIARLO 
+- **El usuario cliente elimina (anonimiza) su información sobre su perfil.**
     - Imagen: Captura de la opción de eliminación de cuenta en la configuración de perfil.
       ![image](https://github.com/user-attachments/assets/33c5a6f2-ab9c-49c8-af52-8fc6aa420f05)
     - Interacción con el software: Sección "Mi Perfil" con opción de eliminar cuenta.
