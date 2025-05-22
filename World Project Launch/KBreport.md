@@ -52,9 +52,11 @@ A continuación, se proporcionan capturas de pantalla sobre el feedback realizad
 
 ## Grupo 9 (Caronte)
 
+![Caronte](https://github.com/user-attachments/assets/eace5486-3243-4531-be97-370b50386f2b)
 
 ## Grupo 7 (MapYourWorld)
 
+![MapYourWorld](https://github.com/user-attachments/assets/87946606-7b0c-42b6-bd5a-e4d2ebac26c4)
 
 # 3. **Consolidaciones del feedback proporcionado**
 
