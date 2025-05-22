@@ -1,6 +1,6 @@
 ![logo_caronte_azul](https://github.com/user-attachments/assets/36631133-4715-4b20-91b8-5f07d96795c2)
 
-# Revisión del Software - Entrega
+# Revisión del Software
 
 ## World Project Launch
 
@@ -29,7 +29,8 @@ García Escudero, Ángel
 - **Sprint 2 - Time report:** [Sprint 2 - Time Report](https://app.clockify.me/shared/67e5b5eaf562c161b72c6dd3)
 - **Sprint 3 - Time report:** [Sprint 3 - Time Report](https://app.clockify.me/shared/67f80947fd002c01921db0c6)
 - **Preparing Project Launch - Time report:** [Preparing Project Launch - Time Report](https://app.clockify.me/shared/681399e0f6832429953ac377)
-- **General - Time report:** [General - Time Report](https://app.clockify.me/shared/68139a5912b8445b6f731504)
+- **World Project Launch - Time report:** [World Project Launch - Time Report](https://app.clockify.me/shared/682f58c006921e2780080df0)
+- **General - Time report:** [General - Time Report](https://app.clockify.me/shared/682f595d022dfb6284e0a0d2)
 - **Aplicación de despliegue:** [Railway](https://railway.com)
 
 ### 1.2. Credenciales de acceso de prueba
@@ -406,12 +407,12 @@ Para garantizar una correcta experiencia de uso, se recomienda:
   - **Estado de implementación:** ⏳ Pendiente (0%). 
 
 ## 3. Enlace a la Demo en Vídeo
-El siguiente enlace redirige a la demostración en video de la aplicación utilizada en la evaluación del Preparing Project Launch:
+El siguiente enlace redirige a la demostración en video de la aplicación utilizada en la evaluación del World Project Launch:
 
- **[Demostración funcional de la aplicación (YouTube)](https://youtu.be/24RoQ8d2txg)**
+ **[Demostración funcional de la aplicación (YouTube)](https://youtu.be/uGpvNpU9EIo)**
  
 Formato: `.mp4`  
-Ubicación: Almacenado en el repositorio de GitHub en la carpeta `/Preparing Project Launch`.
+Ubicación: Almacenado en el repositorio de GitHub en la carpeta `/World Project Launch`.
 
 ## 4. Datos Realistas en la Demo
 La demostración del software incluye datos realistas y escenarios de usuario con nombres y contenido verosímil, evitando información ficticia no representativa.
