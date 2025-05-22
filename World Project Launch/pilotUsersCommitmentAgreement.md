@@ -2,7 +2,7 @@
 
 # Acuerdo de compromiso de usuarios piloto
 
-# Preparing Project Launch
+# World Project Launch
 
 # Grupo 9
 

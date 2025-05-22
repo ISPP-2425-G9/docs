@@ -2,7 +2,7 @@
 
 # Commitment Agreement
 
-# Preparing Project Launch
+# World Project Launch
 
 # Grupo 9
 
