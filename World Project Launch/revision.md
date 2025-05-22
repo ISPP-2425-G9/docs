@@ -2,15 +2,13 @@
 
 # Revisión del Software - Entrega
 
-## Preparing Project Launch
+## World Project Launch
 
 ## Grupo 9
 
 **Realizado por:**
 
 Rodríguez Reina, Javier
-
-Solís Padilla, Isaac
 
 **Revisado por:**
 
@@ -23,6 +21,7 @@ García Escudero, Ángel
 - **Aplicación desplegada (Sprint 2):** [Despliegue - Caronte - Sprint 2 ](https://sprint2.caronte.site/home)
 - **Aplicación desplegada (Sprint 3):** [Despliegue - Caronte - Sprint 3 ](https://sprint3.caronte.site/home)
 - **Aplicación desplegada (Preparing Project Launch):** [Despliegue - Caronte - PPL ](https://ppl.caronte.site/home)
+- **Aplicación desplegada (World Project Launch):** [Despliegue - Caronte - WPL ](https://wpl.caronte.site/home)
 - **Landing page:** [Landing Page - Caronte](https://www.caronte.site/)
 - **Clockify:** [Clockify](https://clockify.me/)
 - **Devising a Project - Time report:** [Devising a Project - Time Report](https://app.clockify.me/shared/67d358fa61753b24b9dc8224)
@@ -42,8 +41,8 @@ Para evaluar la aplicación, se proporcionan las siguientes credenciales:
     - **Cliente 2:** jose@caronte.site / **Contraseña:** customer
     
 - Usuarios Empresa:
-    - **Empresa 1:** florapalace@caronte.site / **Contraseña:** empresa
-    - **Empresa 2:** memora@caronte.site / **Contraseña:** empresa
+    - **Empresa 1:** florapalace@caronte.site / **Contraseña:** company
+    - **Empresa 2:** memora@caronte.site / **Contraseña:** company
 
 - Usuario Administrador:
     - **Administrador:** admin@caronte.site / **Contraseña:** password
@@ -104,7 +103,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
       ![image](https://github.com/user-attachments/assets/33c5a6f2-ab9c-49c8-af52-8fc6aa420f05)
     - Interacción con el software: Sección "Mi Perfil" con opción de eliminar cuenta.
     - Sprint: Implementado en el **Sprint 1**. Modificado en el **Preparing Project Launch**.
-    - Estado de implementación: ⏳ Pendiente de pasar a producción. 
+    - Estado de implementación:  ✅ Implementado. 
  
 - **El usuario cliente recupera su contraseña tras olvidarla.** 
     - Imagen: Captura de la opción de recuperación de la contraseña en el inicio de sesión.
@@ -222,7 +221,7 @@ Para garantizar una correcta experiencia de uso, se recomienda:
       ![image](https://github.com/user-attachments/assets/020faf8c-a751-4f91-ad06-95adc7431e15)
     - Interacción con el software: Botón "Eliminar Perfil" en la gestión de patrocinadores.
     - Sprint: Implementado en el **Sprint 1**. Modificado en el **Preparing Project Launch**.
-    - Estado de implementación: ⏳ Pendiente de pasar a producción. 
+    - Estado de implementación:  ✅ Implementado. 
       
 - **El usuario empresa visualiza el listado de empresas patrocinadoras disponibles en la plataforma.**
     - Imagen: Captura de la pantalla de lista de patrocinadores en la plataforma.
