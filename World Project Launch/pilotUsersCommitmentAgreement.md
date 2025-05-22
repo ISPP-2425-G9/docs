@@ -130,4 +130,4 @@ Este compromiso tendrá vigencia desde la fecha de firma hasta la finalización 
 
 ![firma_Ángel](https://github.com/user-attachments/assets/bc6fc11a-863b-41cc-87f2-db372c14429c)
 
-Ángel García – Responsable del programa de usuarios pilot
+Ángel García – Responsable del programa de usuarios piloto
