@@ -16,57 +16,57 @@ García Escudero, Ángel
 
 ---
 
-![Informe_resumido](https://github.com/user-attachments/assets/154777cd-c3d2-4933-a73e-0cc275c54b9d)
+![Informe_resumido](https://github.com/user-attachments/assets/4895474e-ad6c-4140-8d0b-b99133b52b51)
 
 ---
 
 ## Comparación entre Devising a Project, Sprint 1, Sprint 2, Sprint 3, Preparing Project Launch y World Project Launch
 
-![Comparación](https://github.com/user-attachments/assets/999b1ee7-f063-45a1-8b1c-a047fe738ba8)
+![Comparación](https://github.com/user-attachments/assets/abe8c631-f672-44bd-bdd0-f19d96849d5b)
 
 ---
 
 ## Horas de trabajo por miembro del equipo en el proyecto completo
 
-![Usuarios_general](https://github.com/user-attachments/assets/ec976ae4-3468-47bc-bc65-d2b3c0c78866)
+![Usuario_general](https://github.com/user-attachments/assets/cd36c77b-c3a5-4156-8657-2be87e917893)
 
 ---
 
 ## Horas de trabajo por miembro del equipo en el World Project Launch
 
-![Usuarios_WPL](https://github.com/user-attachments/assets/80361d8e-0d8e-4d91-95e2-e2751d5f2f32)
+![Usuario_WPL](https://github.com/user-attachments/assets/0fc8fb3a-f8a8-4293-a5be-9d93638b4f7a)
 
 ---
 
 ## Horas de trabajo por sección
 
-![Tarea](https://github.com/user-attachments/assets/d766b035-ed47-4b47-a954-207c532b21bc)
+![Tarea](https://github.com/user-attachments/assets/5da185d1-5884-4298-9521-0a462756f48c)
 
 ---
 
 ## Horas de trabajo por tarea
 
-![Etiqueta](https://github.com/user-attachments/assets/4e42d7db-78e5-4510-8c19-b8562ec6bfd0)
+![Etiqueta](https://github.com/user-attachments/assets/956d1d05-83cf-4f82-a964-902404f64d65)
 
 ---
 
-## Karim Youssafi Benichikh 21:05
-- **Marketing - World Project Launch**: 14:15
-    - **Marketing**: 14:15
+## Karim Youssafi Benichikh 19:40
+- **Marketing - World Project Launch**: 12:50
+    - **Marketing**: 12:50
 - **Clases/Píldoras - World Project Launch**: 4:15
     - **Clases**: 4:15
 - **Reunión - World Project Launch**: 2:35
     - **Reunión**: 2:35
 
-## Ángel García Escudero 19:00
+## Ángel García Escudero 19:30
 - **Marketing - World Project Launch**: 5:35
     - **Marketing**: 5:35
 - **Clases/Píldoras - World Project Launch**: 5:15
     - **Clases**: 5:15
+- **Presentación - World Project Launch**: 3:00
+    - **Presentación**: 3:00
 - **Reunión - World Project Launch**: 2:35
     - **Reunión**: 2:35
-- **Presentación - World Project Launch**: 2:30
-    - **Presentación**: 2:30
 - **Documentación - World Project Launch**: 2:15
     - **Documentación**: 2:15
 - **Organización del equipo - World Project Launch**: 0:50
@@ -102,15 +102,15 @@ García Escudero, Ángel
 - **Documentación - World Project Launch**: 0:15
     - **Documentación**: 0:15
 
-## Jorge Muñoz Rodríguez 11:30
+## Jorge Muñoz Rodríguez 12:15
 - **Clases/Píldoras - World Project Launch**: 4:45
     - **Clases**: 4:45
 - **Reunión - World Project Launch**: 3:00
     - **Reunión**: 3:00
 - **Despliegue - World Project Launch**: 2:05
     - **Desarrollo**: 2:05
-- **Landing page - World Project Launch**: 0:40
-    - **Desarrollo**: 0:40
+- **Landing page - World Project Launch**: 1:25
+    - **Desarrollo**: 1:25
 - **Marketing - World Project Launch**: 0:30
     - **Marketing**: 0:30
 - **Documentación - World Project Launch**: 0:30
