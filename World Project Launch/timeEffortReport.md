@@ -1,4 +1,4 @@
-![logo_caronte_azul](https://github.com/user-attachments/assets/36631133-4715-4b20-91b8-5f07d96795c2)
+(https://github.com/user-attachments/assets/36631133-4715-4b20-91b8-5f07d96795c2)
 
 # Horas de trabajo del equipo
 
@@ -16,31 +16,37 @@ García Escudero, Ángel
 
 ---
 
+![Informe_resumido](https://github.com/user-attachments/assets/154777cd-c3d2-4933-a73e-0cc275c54b9d)
 
 ---
 
 ## Comparación entre Devising a Project, Sprint 1, Sprint 2, Sprint 3, Preparing Project Launch y World Project Launch
 
+![Comparación](https://github.com/user-attachments/assets/999b1ee7-f063-45a1-8b1c-a047fe738ba8)
 
 ---
 
 ## Horas de trabajo por miembro del equipo en el proyecto completo
 
+![Usuarios_general](https://github.com/user-attachments/assets/ec976ae4-3468-47bc-bc65-d2b3c0c78866)
 
 ---
 
 ## Horas de trabajo por miembro del equipo en el World Project Launch
 
+![Usuarios_WPL](https://github.com/user-attachments/assets/80361d8e-0d8e-4d91-95e2-e2751d5f2f32)
 
 ---
 
 ## Horas de trabajo por sección
 
+![Tarea](https://github.com/user-attachments/assets/d766b035-ed47-4b47-a954-207c532b21bc)
 
 ---
 
 ## Horas de trabajo por tarea
 
+![Etiqueta](https://github.com/user-attachments/assets/4e42d7db-78e5-4510-8c19-b8562ec6bfd0)
 
 ---
 
